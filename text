@@ -1,0 +1,416 @@
+开始处理PDF文件: 1_语文周末作业.pdf
+正在处理PDF文件: 1_语文周末作业.pdf
+总页数: 3
+正在处理第 1 页...
+已保存图片: extracted_images/1_语文周末作业_page1_img1.png
+已保存图片: extracted_images/1_语文周末作业_page1_img2.png
+正在处理第 2 页...
+已保存图片: extracted_images/1_语文周末作业_page2_img1.png
+已保存图片: extracted_images/1_语文周末作业_page2_img2.png
+正在处理第 3 页...
+已保存图片: extracted_images/1_语文周末作业_page3_img1.png
+已保存图片: extracted_images/1_语文周末作业_page3_img2.png
+所有图片提取完成！
+
+开始处理PDF文件: 英语必刷卷 专题4.pdf
+正在处理PDF文件: 英语必刷卷 专题4.pdf
+总页数: 2
+正在处理第 1 页...
+已保存图片: extracted_images/英语必刷卷 专题4_page1_img1.png
+已保存图片: extracted_images/英语必刷卷 专题4_page1_img2.png
+正在处理第 2 页...
+已保存图片: extracted_images/英语必刷卷 专题4_page2_img1.png
+已保存图片: extracted_images/英语必刷卷 专题4_page2_img2.png
+所有图片提取完成！
+
+开始处理PDF文件: 英语必刷卷 专题5.pdf
+正在处理PDF文件: 英语必刷卷 专题5.pdf
+总页数: 1
+正在处理第 1 页...
+已保存图片: extracted_images/英语必刷卷 专题5_page1_img1.png
+所有图片提取完成！
+
+开始处理PDF文件: 英语必刷卷 专题2.pdf
+正在处理PDF文件: 英语必刷卷 专题2.pdf
+总页数: 1
+正在处理第 1 页...
+已保存图片: extracted_images/英语必刷卷 专题2_page1_img1.png
+已保存图片: extracted_images/英语必刷卷 专题2_page1_img2.png
+所有图片提取完成！
+
+开始处理PDF文件: 鹤壁卷-期末教学质量调研测试.pdf
+正在处理PDF文件: 鹤壁卷-期末教学质量调研测试.pdf
+总页数: 4
+正在处理第 1 页...
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img1.png
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2.png
+正在处理第 2 页...
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img1.png
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2.png
+正在处理第 3 页...
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img1.png
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2.png
+正在处理第 4 页...
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img1.png
+已保存图片: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2.png
+所有图片提取完成！
+检测到水印,已删除图片: 鹤壁卷-期末教学质量调研测试_page4_img1.png
+检测到水印,已删除图片: 1_语文周末作业_page2_img1.png
+检测到水印,已删除图片: 1_语文周末作业_page3_img1.png
+Image rotated by 270 degrees
+Image rotated by 270 degrees
+检测到水印,已删除图片: 鹤壁卷-期末教学质量调研测试_page3_img1.png
+检测到水印,已删除图片: 鹤壁卷-期末教学质量调研测试_page2_img1.png
+检测到水印,已删除图片: 英语必刷卷 专题4_page2_img1.png
+Image rotated by 270 degrees
+检测到水印,已删除图片: 1_语文周末作业_page1_img1.png
+检测到水印,已删除图片: 英语必刷卷 专题4_page1_img1.png
+检测到水印,已删除图片: 鹤壁卷-期末教学质量调研测试_page1_img1.png
+检测到水印,已删除图片: 英语必刷卷 专题2_page1_img1.png
+Added image width as final boundary: 3240
+Detected boundaries: [69, 106, 116, 1572, 1653, 3144, 3230, 3240]
+Saved column 1 as extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_1.png
+Saved column 2 as extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_2.png
+Saved column 3 as extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_3.png
+Saved column 4 as extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_4.png
+Saved vertical projection visualization as extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_projection.png
+Added image width as final boundary: 3000
+Detected boundaries: [0, 1995, 2004, 3000]
+Saved column 1 as extracted_images/1_语文周末作业_page3_img2_column_1.png
+Saved column 2 as extracted_images/1_语文周末作业_page3_img2_column_2.png
+Saved vertical projection visualization as extracted_images/1_语文周末作业_page3_img2_projection.png
+Detected boundaries: [0, 1408, 1446, 1485, 1508, 2985]
+Saved column 1 as extracted_images/1_语文周末作业_page2_img2_column_1.png
+Saved column 2 as extracted_images/1_语文周末作业_page2_img2_column_2.png
+Saved column 3 as extracted_images/1_语文周末作业_page2_img2_column_3.png
+Saved vertical projection visualization as extracted_images/1_语文周末作业_page2_img2_projection.png
+Added image width as final boundary: 3212
+Detected boundaries: [14, 25, 52, 1061, 1129, 2086, 2158, 3200, 3203, 3212]
+Saved column 1 as extracted_images/英语必刷卷 专题4_page2_img2_column_1.png
+Saved column 2 as extracted_images/英语必刷卷 专题4_page2_img2_column_2.png
+Saved column 3 as extracted_images/英语必刷卷 专题4_page2_img2_column_3.png
+Saved column 4 as extracted_images/英语必刷卷 专题4_page2_img2_column_4.png
+Saved column 5 as extracted_images/英语必刷卷 专题4_page2_img2_column_5.png
+Saved vertical projection visualization as extracted_images/英语必刷卷 专题4_page2_img2_projection.png
+Added image width as final boundary: 3172
+Detected boundaries: [83, 86, 109, 1473, 1579, 2926, 2930, 2979, 2980, 2982, 2987, 2988, 2989, 2992, 3006, 3008, 3034, 3036, 3042, 3044, 3059, 3066, 3068, 3070, 3074, 3076, 3077, 3078, 3081, 3105, 3168, 3172]
+Saved column 1 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_1.png
+Saved column 2 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_2.png
+Saved column 3 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_3.png
+Saved column 4 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_4.png
+Saved column 5 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_5.png
+Saved column 6 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_6.png
+Saved column 7 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_7.png
+Saved column 8 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_8.png
+Saved column 9 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_9.png
+Saved column 10 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_10.png
+Saved column 11 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_11.png
+Saved column 12 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_12.png
+Saved column 13 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_13.png
+Saved column 14 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_14.png
+Saved column 15 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_15.png
+Saved column 16 as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_16.png
+Saved vertical projection visualization as extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_projection.png
+Detected boundaries: [61, 224, 228, 1564, 1674, 3057, 3061, 3121]
+Saved column 1 as extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_1.png
+Saved column 2 as extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_2.png
+Saved column 3 as extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_3.png
+Saved column 4 as extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_4.png
+Saved vertical projection visualization as extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_projection.png
+Added image width as final boundary: 3000
+Detected boundaries: [7, 38, 66, 1454, 1560, 3000]
+Saved column 1 as extracted_images/1_语文周末作业_page1_img2_column_1.png
+Saved column 2 as extracted_images/1_语文周末作业_page1_img2_column_2.png
+Saved column 3 as extracted_images/1_语文周末作业_page1_img2_column_3.png
+Saved vertical projection visualization as extracted_images/1_语文周末作业_page1_img2_projection.png
+Detected boundaries: [28, 200, 202, 1592, 1690, 3178]
+Saved column 1 as extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_column_1.png
+Saved column 2 as extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_column_2.png
+Saved column 3 as extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_column_3.png
+Saved vertical projection visualization as extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_projection.png
+Detected boundaries: [0, 151, 152, 1090, 1163, 2094, 2159, 3198]
+Saved column 1 as extracted_images/英语必刷卷 专题4_page1_img2_column_1.png
+Saved column 2 as extracted_images/英语必刷卷 专题4_page1_img2_column_2.png
+Saved column 3 as extracted_images/英语必刷卷 专题4_page1_img2_column_3.png
+Saved column 4 as extracted_images/英语必刷卷 专题4_page1_img2_column_4.png
+Saved vertical projection visualization as extracted_images/英语必刷卷 专题4_page1_img2_projection.png
+Detected boundaries: [0, 89, 91, 1096, 1170, 2112, 2182, 3108, 3109, 3188]
+Saved column 1 as extracted_images/英语必刷卷 专题5_page1_img1_column_1.png
+Saved column 2 as extracted_images/英语必刷卷 专题5_page1_img1_column_2.png
+Saved column 3 as extracted_images/英语必刷卷 专题5_page1_img1_column_3.png
+Saved column 4 as extracted_images/英语必刷卷 专题5_page1_img1_column_4.png
+Saved column 5 as extracted_images/英语必刷卷 专题5_page1_img1_column_5.png
+Saved vertical projection visualization as extracted_images/英语必刷卷 专题5_page1_img1_projection.png
+Added image width as final boundary: 3220
+Detected boundaries: [8, 10, 29, 1031, 1110, 2075, 2152, 3168, 3180, 3220]
+Saved column 1 as extracted_images/英语必刷卷 专题2_page1_img2_column_1.png
+Saved column 2 as extracted_images/英语必刷卷 专题2_page1_img2_column_2.png
+Saved column 3 as extracted_images/英语必刷卷 专题2_page1_img2_column_3.png
+Saved column 4 as extracted_images/英语必刷卷 专题2_page1_img2_column_4.png
+Saved column 5 as extracted_images/英语必刷卷 专题2_page1_img2_column_5.png
+Saved vertical projection visualization as extracted_images/英语必刷卷 专题2_page1_img2_projection.png
+图片路径: extracted_images/1_语文周末作业_page3_img2_column_1.png 文本长度: 1382
+识别的文本内容:
+姓名:班级:Be:RAR一3.期末复习第2步、攻专项专项4主题型默写锁定期未高频考点,快速掌握。[杭州市]本期"古代文人的山水人生"专栏的前言由小语所写,请你帮他补全古诗文。山水是古代文人寻求精神独立和生命自由的安居之所，也是古代文人寄托情思的意象。山水之中,即便是夕阳西下，陶弘景看到腿前"D.@_"(《答谢中书书》)鱼儿在水中竞相嬉戏之景,也要感叹此处为仙境;崔颗游览黄稚楼,尽管眼前是“G@),@”(《黄鹤楼》)一派欣欣向荣的景象,但是乐景衬哀情,诗人感慨岁月易逝,物是人非,思乡之情油然而生;陶渊明弃官归隐,在山水美景中,以"@©”[《饮酒》(其五)道出了内心的闲适自得;面对富春江的奇山异水,吴均写下了“Q,望峰息心;@)，罕谷忘反"(《与朱元思书》)的名句,劝友人放下争名夺利之心,忘情于山水大美之中。让我们一起走进本期“古代文人的山水人生”,去感受山水的精神意蕴吧![徐州市]下面是小文写的古诗文阅读感悟,请你补全空缺的部分。诗人常常借景抒情,赋予客观景物以petetii白居易的“@D®〈《钱塘湖春行》)借欧MERELYOEE5OREFdnAke],G)"(CARAEYED)BU空灵之境,表达内心的复杂情感;王绩用"@6)”(CSEFEE))HAEEAweA道出孤独抑郁的心境;杜甫的“感时花溅泪,@”(《春望》)中以春日花鸟传达人忧国思家之情;本道元用“GO,@)(《三峡》)表达了对水清、树茂、山高.草盛之景的锡美。下面是小语学完本学期的古诗文后做的梳理,请你补全句子。古诗文中对偶手法的运用,使诗句既富有音律美,又富河南专版语文八年级LhAm第1页KHIR>aARH.RNCSSEByRAMDO_;好岛相网,@HSTy林美景,组成一部奇妙的大自然交响曲;胺殊的《浣溪沙》(一曲新闻酒一杯)"@"声前和谐地唱叹花落春逝,殖含着饮惜与欣慰交织的生活哲理,含蔷深婉;王维的《使至塞上》中"“@OR,(EUSTACEPycoeeseMOOOunce,te达了无尽的亡国之愁\离别之恨。下面是班主任在学期未的班会上要进行的青春寄语"发言,请你补充完整。俯首是秋,信首是春,一转眼本学期即将结束,我们的初中生活也过去了一半。在接下来的学习生活中,愿你眼中有光,用"天将降大任于是人也,必先苦其心志，饭其体肤,空乏其身,@"(《生于忧患，死于安乐》)的心态面对挫折;愿你心中有力量,拥有“何夜KA?MEH?四"(Sea《记承天寺夜游》)的旷达和坚守走出逆境;愿你在忙碌之AeAT"BEM,©"[欧阳修《采桑子)(轻舟短棒西湖好)]的生活之美的低意情怀;愿你胸怀正义,以“富贵不能淫,G@)_.©(CAESARERE))AceSFREDD心;愿你心中有家国,用"@〇®”(李贺《座门太守行》)的满腔赤诚报效祖国。愿你们都成长为更好的自己。.小瑰要为“我爱家乡河南"活动写一段结束语,请你帮他补充完整。家乡,是每一个人生命的源头和精神的摇篮。家乡的自然风光、风土人情总牵动着人们的内心。信步郑州园博园,我们感受到了白居易笔下"乱花渐欲迷人眼,D”(《钱措湖春行))的花草映衬之美;移步长垣的黄河湿地,水鸟振起纷飞,我们仿佛看到了李清照笔下“@,@,@"[《如梦令》(常记溪亭日萌)]的情景。虽然我们的家乡缺少点河内专版话文NEE人着AK第2页共3页TPRPP
+图片路径: extracted_images/1_语文周末作业_page3_img2_column_2.png 文本长度: 589
+识别的文本内容:
+JLBTCEFEFLAKE.O"(《三峡》)的MiiKH(ARMREEREFODe"(CHERED)的壮观雄奇的风景。愿你TEDMSAi*@),悠然见南山"[陶渊明《人饮酒》(其五))的闲适心情,一路风景.走走停停。ED求同存异是阅读古诗文常见的一种方法,请把下面的对话补充完整。小文:我发现古诗文特别注重违词,以表现特别的效果。(SuePHHPFYBAAD",—-*“竟"字,尽写夕阳下鱼儿灵动的生命活力;李清照《渔家做》¥“@AG)”几个动词的谈入,表现了一幅辽闭半美的海天图。小河:我发现写"鸟"的诗身很多,情感各不相同。杜肖的《春望》中"图©¢AST,LESMARSAATSHG;《钱塘湖春行》中“几处早营争暖树,(O)”描绘出营和藉的动态,体现了诗人对这些充满生机的小生命的由衷喜爱和对春天的由详赞闫。7.请根据下表提供的信息,将内容补充完整。ikHELSORoFMeTD__,隐天项日"的山高岭连的雁伟景象;王维|Meee,4Hk“QDAHAMHRAHMEPRAR,RRBMAL,ARELEte“@2@"的淡淡思乡之殷;李白在船上看着屠ithAKRhLO©"的依依不含之情。杜牧以小见大,用“了OAMERT|的"势"与*运";和王子观点鲜明地指出决定战争胜负的三要素及其关系的句子是:O),四站河南专版语文AFM上册人教第3页共3页专项4eeeenn,aoe,一一~
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2.png 文本长度: 2689
+识别的文本内容:
+()46.A.seriouslyB.angrilyC.clearlyD.widelyfarming.SoGracedecidedtoteachthem69__todothefarmwork.Theyplantedtreesandsome()47.A.getonB.lookafterC.putonD.cutdownvegetables._wasveryhardtoworkatahightemperature,butitwasalsoverymeaningful.Asthe()48.A.toB.likeC.inD.onsummercametoaclose,Gracefeltveryhappybecauseshehelpedotherslearnthemeaningofhard(49.A.lazyB.hardC.excitingD.strictwork,(+50.A.wentB.listenedC.saidD.got66.0TB6970.(51.A.UnlessB.SoC.ButD.When五\补全对话(5小题,每小题2分,共10分)(52.A.canB.mustC.needD.will根据下面的对话情景,在每个空白处填上一个适当的句子,使对话的意思连贯完整。()53.A.ThisB.ThatC.ItD.HeA:Hi!Youdidn’tgotothepicnicwithusyesterday.Whatdidyoudothen?()54.A.forgotB.knewC.rememberedD.guessedB:IwatchedabasketballmatchonTVwithmyfather.()55.A.liveB.orderC.takeD.becomeA:71.?BIAS(15小题,每小题1分,共15分)第一节”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺意思完整。每空限填一词,每词限用一次。?B:Tdloveto,butI'mgoingtovisitmygrandparents.HowaboutSundaymorning?writewaymakeyearthatofgoodrememberfinalasar—.Howcanwegetthere,bysubwayorbytaxi?B;Itwasreallyexciting.Myfavoriteteamwonthegameatlast.A;Thatwasgreat.TherewillbeabooksalethisweekendatXinhuabookstore.72.Aswewillsaygoodbyetomiddleschool,myclassmatesandIwantedtorememberourexperiencesB:Letsgettherebysubway.74.inmiddleschool.Wedecidedtocreateourownalumnibook(同学录)to56_thegoodtimeswehad.A:Youareright.75.2Asweworkedon这,wefound57__itwasagreatwaytorememberourtimeinmiddleschool.58_B;Let’smakeiteight.welookedthrougholdphotosandrememberedfunnythingsthathappenedintheclass,wealllaughed.A:OK.Seeyou.We59_downourideasforthefuture.Andwegavethe60”wishestoeachother.B;Seeyou.Oneofthemostimportantpartsof61_ouralumnibookswasgettingtoworktogether.Wehelped六\书面表达(20分)eachotherwithwritinganddrawing,andwesharedourideas.Itwasagreat62___tocreatesomething十年后,你的生活会是什么样的呢?假如本期学校英语报的征文题目是“Mylifeintentogether.Whenwe63__finishedouralumnibooks,weweresohappywiththeresults.Wecreatedyears”,请你根据下面的要点及要求,发挥想象,写一篇英语短文投稿。somethingtohelpusrememberourtimeinmiddleschoolfor64__inthefuture.要点:1.Whatwillyoube?Aswewillmoveontohighschool,weknowthatwewillalwayskeepourmemories(记忆)“652.Wherewillyoulive?middleschool.Andthankstoouralumnibooks,wewillneverforgettheexperiencesandthepeoplewe3.Whatwillyoudoinyourfreetime?要求:1.文中不要出现所在学校的校名和师生姓名;56.57.58.59.60.2.词数80左右。61.62.63.64.65.第二节，阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。Graceandherparentsliveonasmallfarm.Fromayoungage,Cracedoestheworkonthefarm66__herparents.Atfirst,shedidn'tlikeit57_all.Butwhenshegrewolder,shebegantoknowmetalongtheway.MylifeintenyearsaSeoneorLoTaahiiadethemeaningofhardwork.Onesummer,herparentsdecided68__letagroupofyoungstudentsdotheirsummerworkontheirfarm.Theywereallfromthemiddleschool.Theyhopedtolearabout_八+H@FIR8Ae88网te4beahe共8页英语八年级上册@第8页共8页peers«)“cascain:als“geSsSeaakanal
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_4.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_4.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_column_3.png 文本长度: 1183
+识别的文本内容:
+听下面一段独白,回答第10至第12三个小题。()10.WhatdoesJennyliketoeat?A.Biscuits,candyandapples.B.Strawberries,beefandfish.C.Chocolate,sugarandice-cream.()11.WhatwaswrongwithJennylastweek?A.Shehadatoothache.B.Shehadacancer.C.Shehadafever.()12.HowdidJennyfeelwhenthedoctortoldherthatmanyofherteethwerebad?A.Mad.B.Tired.C.Afraid.听下面一段对话,回答第13至第15三个小题。()13.What’stherelationshipbetweenthespeakers?A.Classmates.B.Doctorandnurse.C.Motherandson.()14.Howmuchmoneydidthegirlgetinherdream?A.Onethousanddollars.B.Onemilliondollars.C.Tenmilliondollars.()15.Whatwilltheboydoifhehassomuchmoney?A.Hewillgiveittothepoor.B.Hewillbuyahouseandacar.C.Hewilltravelaroundtheworld.第三节”听下面一篇短文。按照你所听内容的先后顺序将下列图片排序。短文读两所。二\阅读理解(20小题,每小题2分,共40分)阅读下面四篇语言材料,然后按文后要求做题。AIt’sWorldEnvironmentDay!ThecitylibrarypreparessomesurprisesforyouonJuneSth.TellstoriesRaise(筹集)moneyYoucansharestoriesaboutscientistsorYouarewelcometobevolunteers(志愿者)fortechnology(科技)forsavingtheenvironment.|thisactivity.WewilluseallthemoneytohelpIt'sOKifyouarenotgoodattellingstories.animalsindanger.Age:13—17yearsoldAge:over15yearsoldPlace:inthehallofthefirstfloorPlace:inRoom3ofthethirdfloorTime;8:00a.m.—9;30a.m.Time:10:00a.m.—11:30a.m.英语AFR上册@第2页HER-<试卷4E
+图片路径: extracted_images/1_语文周末作业_page2_img2_column_1.png 文本长度: 1327
+识别的文本内容:
+ARGERHRSSASHRJekFAHIMABHR,RSteMEARSOR全部交给母亲。这笔钱,是母亲和我们兄妹三人的生活开销。图因为交通不便利,也是为了省钱,他一般都是每年正月初二出门,腊月二十信回家。父亲常年不在家,回村时也很少串门吃酒。这在礼尚往来的乡村显得格格不入。乡邻们私下里评价他“小气“把钱看得太重"。然而,在那个物资短缺粮食不够吃的年代,正是父亲的“小气”给了我们较为上般实的生活。他不仅让我们衣食无2,也让我的母亲比村里其他女人更早戴上手表,踩上缝幻机，让我们在没有电视机的年代听上了收音机。图那台收音机的神奇作用,在许多年后显现了出来。我在收音机里听到过一个故事一一(会说话的猪)。那时的我没想到猪还会说话,有计谋,对我们人类有那么多意见!这介故事令我震惊,也许,我的童话想象就是那时萌生的。@@高中时,我是宁乡七中的学生,而高考考场设在六中。高考前一天下午。学校用一辆辆大卡车把我们送往考点。正是七月酷署,大卡车没有车攻,乡村公路上尘土飞扬。到达考点后,一身尘土的我们立即扑向水龙头,洗脸,洗手,洗去身上的尘垢。将自己洗得清清册央回到学生宿舍休息时,我才发现,手表不见了!@@为了让我考试时方便看时间,母亲将她心爱的手表给了我。那时候,手表是家里的“三大件”之一,不知道父亲需要攒多久的钱才能买到。那几天,我白天考试,夜里史泣,吃不下任何东西。考最后一门时,我浑身发拌,因为我害怕回家。@我最后一个走出教室,在走麻上居然看到了父亲。个子矮小的父亲手里捡着几个梨。原来，老师担心我出事,把丢手表的事情打电话告诉了父亲。父亲从外地赶了回来。看见父亲,我的眼泪再次溢满眼眶。父亲递给我一个梨,我接过来,用小得不能再小的声音说;我把手表丢了。“丢了不要紧,再买就是,你吃梨。父亲说。我咬了一口有狐,将清甜的梨汁和眼泪一并吞下。@@学校的车已经开走了。我跟着父亲去镇上搭汽车回家,我们洛着河坦走,迎面的是正在西落的太阳,我们的家就在太阳将要落下的大山深处。路上,父亲再没有说一句话,甚至没有问我考得怎样。把挣钱和时间看得无比重要的父亲,得知我丢了手表，特意从外地赶来接我回家。我牢牢地记着这件事。这是一个确证一“在父亲的心中,我也是重要的。@@我考上了大学,父亲很高兴。他背着一口亲手打制的樟木箱，和母亲一起送我到长沙上学。@@直到六十多岁,父亲才结束了在外奔波的生活,安居老家。@我毕业后在出版社当编辑,因为写作,有了一点小名气。有一次,母校请我去做讲座,我提前一天开车回家看望父母,第二天上午去学校,讲座结束便回了长沙。后来听母亲说,那天父亲中着自行车骑行了三十多里,到学校去听我的讲座。可是父亲到学校时,讲座已经结束了5他只看到了欢迎我的横幅。@"*他怎么不跟我说?我要是知道他感兴趣,我开车一并带上他就是了。"我抱怨道。他去的时候也没跟我说,是回来后才说的o"母亲说。父亲从未跟我说过这件事,我也未跟父亲提起。但从此以后,我只要出了新书,便会带一本回去给父亲,让他了解我的工作。父亲接过书,脸上总是笑睐KH人父亲去世后,前来吊喀的人群中,有一个从村里考上大学;如今很有成就的年轻人拉着我说，试卷8Ahem语文八年级上册Ak第3页共8页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_column_2.png 文本长度: 1051
+识别的文本内容:
+O年级英语鹤壁市2023一2024学年上期期末教学质量调研测试S时间:100分钟”分数:120分一听力理解(20小题,每小题1分,共20分)第一节WHS段对话。每段对话后有一个小题,从题中所给的A.B、C三个选项中选出最佳答案。每段对话读两遍。()1.Howoftenshouldthewomantakethemedicine?A.Onceaday.B.Twiceaday.C.Threetimesaday.()2.WhydoesAlanlikeshoppingontheInternet?A.Becauseit’sinteresting.B.Becausethethingsonlinearebetter.C.Becausethethingsonlinearecheaper.()3.Whenwilltheconcertstart?A.At6:00p.m.B.At7;00p.m.C.At8:00p.m.()4.HowdoesDoralikeyogurt?A.Shelikesitalittle.B.Shelikesitverymuch.C.Shedoesn’tlikeit.()5.InwhichsubjectdidHenrygetanA?A.English.B.Geography.C.Math.第二节”听下面几段对话或独白。每段对话或独白后有几个小题,从题中所给的A.B、C=个选项中选出最佳答案。每段对话或独白读两遍。听下面一段对话,回答第6至第7两个小题。()6.WhydoesJillaskRickforhelp?A.Shedoesn’tknowthemeaningofaword.B.Shedoesn’tknowhowtobuyadictionaryonline.C.Shedoesn’tknowhowtousetheonlinedictionary.()7.WheremayJillandRickbe?A.AtJill’shome.B.Intheclassroom.C.Ontheplayground.听下面一段对话,回答第8至第9两个小题。()8.WhereisJohnnygoing?A.Totheconcert.B.Tothemuseum.C.Tothecinema.()9.WhatisJohnny’sdream?A.Hewantstobeasinger.B.Hewantstobeanactor.C.Hewantstobeaheadmaster.英语八年级上册@第1页共8页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_1.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_1.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_3.png 文本长度: 955
+识别的文本内容:
+farming.SoGracedecidedtoteachthem69__todothefarmwork.TheyplantedtreesandsomeVegetables.|__—wasveryhardtoworkatahightemperature,butitwasalsoverymeaningful.AstheSummercametoaclose,Gracefeltveryhappybecauseshehelpedothersleamthemeaningofhardwork,66.67.68.69.70.HEME(5S小题,每小题2分,共10分)根据下面的对话情景,在每个空白处填上一个适当的句子,使对话的意思连贯完整。A:HilYoudidn’tgotothepicnicwithusyesterday.Whatdidyoudothen?B;IwatchedabasketballmatchonTVwithmyfather.A:71.?B:Itwasreallyexciting.Myfavoriteteamwonthegameatlast.A;Thatwasgreat.TherewillbeabooksalethisweekendatXinhuabookstore.72.2B:Tdloveto,butI'mgoingtovisitmygrandparents.HowaboutSundaymorning?A:73..Howcanwegetthere,bysubwayorbytaxi?B:Letsgettherebysubway.74.A:Youareright.75.>B;Let’smakeiteight.A:OK.Seeyou.B:Seeyou.六、书面表达(20分)十年后,你的生活会是什么样的呢?假如本期学校英语报的征文题目是*Mylifeintenyears”,请你根据下面的要点及要求,发挥想象,写一篇英语短文投稿。要点:1.Whatwillyoube?2.Wherewillyoulive?3.Whatwillyoudoinyourfreebme?要求:1.文中不要出现所在学校的校名和师生姓名;2.词数80FA.Mylifeintenyears英语MER上册@第8页HEH
+图片路径: extracted_images/1_语文周末作业_page2_img2_column_2.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/1_语文周末作业_page2_img2_column_2.png
+图片路径: extracted_images/1_语文周末作业_page2_img2_column_3.png 文本长度: 486
+识别的文本内容:
+“我小的时候,桂阿公经常到我家来;每次来总是会带一本书逆给我。我们乡里的小孩,哪里有课外书看,看书全人靠桂阿公"村里的孩子都叫我父亲“杜阿公"。@原来如此。难怪我在整理父亲的遗物时,没有看到我给他的那些书。我想起了我童年时代父亲带回的那台收音机。我希望父亲送给村里孩子的那些书,也像当年的收音机一样,能起到神奇的作用。6.本文是一篇回忆性散文,文中记录了"我"与父亲之间的几件事，请你为每件事拟一个小标题。(4分)7.乡邻们评价父亲“小气"把钱看得太重",你是否认同这个评价?请结合全文内容,谈谈你的理解。(4分)8.阅读下面句子,根据括号中的要求回答问题。(4分)(1)我咬了一口梨,将清甜的梨汗和眼泪一并吞下。(从“我"的眼泪中能读出“我"怎样的心理?)”(2)我腿着父亲去镇上搭汽车回家,我们沿着河坦走,迎面的是正在西落的太阳,我们的家就、.在太阳将要落下的大山深处。(运用了什么描写方法?有怎样的表达效果?)9，有人认为本文标题(那个乘着风雪而来的“陌生大"》不如改为父亲》更好,你怎样认为呢?请谈谈你的看法。(4分)AhembXAFMLt人教第4页共8页rr一—
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_column_1.png 文本长度: 54
+识别的文本内容:
+*HESOFbhhtSSeyee全-图-人2RERKAVEEBLE4二eeMZPELiiMaattaral©
+图片路径: extracted_images/1_语文周末作业_page3_img2.png 文本长度: 1682
+识别的文本内容:
+ARH.RUNGEpyRAMD___JLBEFEFLAKE.)"((三峡》)的期末复习第2步.攻专项_;好岛相网,@HSTyMiGAHORMKEEREFOO__专项4”主题型默写林美景,组成一部奇妙的大自然交响曲;受殊的《浣溪沙》"(WETEDOVALTLEAYR.|SERENALatwmaediaciabieMASRone在党景时有"“@,悠然见南山"[陶浏明|”声韵和谐地唱叹花4闲适心情,一，。1.[杭州市本期“古代文人的山水人生"专栏的前言由小语扎交织的生活生理，We“yeea请把写,请你帮他补全古诗文。OURAN,Er.,山水是古代文人寻求精神独立和生命自由的安居之所，er.“/也是古代文人寄托情思的意象。山水之中,即便是夕阳西下，ARDXARITANELEA,LATMIR,CeOOATRLWBZMRKESTYibherorenenpeceey,CSRBF))BLEAHPSEARBE4.下面是班主任在学期未的班会上要进行的“青春寄语"发况FoEEEERORESARERRERSSaAbaeEASEH,ATE言请你补充完整，deEESoMi向荣的景象nalsw二机人gionRe2m:日’5stfeWyeayANG]:RS6,"ht四中HeSohunneRace在山水美景中,以"@全arte"Ae:@;，以可于是人也,必先苦其心志，HiEras©"(UKI)GEE))RICAN,SIC©"(《生于忧患，两句移情于物,见花落泪,闻乌惊心,表达了感时伤怀之情;“EATASPAREBsaPPAAFLSek,RISET死于安乐》)的心态面对挫折;愿你心中有力量,拥有“何夜(QUEMEH)POLRESHet.O‘由‘O_O@®_，KA?何处无竹柏?®"(RRWALSHDAMMTHAMELAMAMGDAPfACSATE)NB),RANEBAAS《记承天寺夜游》)WOHsAUREEHE;ERSHORELPURAUURL,心,忘情于山水大美之中。让我们一起走进本期“古代文人余!也有发现*微动涟满,@"(ik7.请根据下表提供的信息,将内容补充完整。;的山水人生”,去感受山水的精神意获吧!阳修《采桑子》(轻舟短樟西湖好)]的生活之美的民意情Be。2.[徐州市下面是小文写的古诗文阅读感悟,请你补全空缺怀;愿你胸怀正义,以“富贵不能淫,@|的部分。O(aTRERED)HEDmewRetWMT“DPEATEHEIRTFA,SPAeESEASERG心;愿你心中有家国,用"@,@)RAREHeheAEREMM!《三峡》白居易的“@,@""(李贺《雁门太守行》)的满腔赤诚报效祖国。|MAee,1“D(《钱塘湖春行》)借营ELELLOCR5IRRETdn愿你们都成长为更好的自己。河落日国"的礁浑更而的室外风光图。积水空明,@"(GRAFWUD)OUR5.小珠要为"我爱家乡河南"活动写-段结束语;请你帮他补SAEERAS.SEATSSSS&空灵之境,表达内心的复杂情感;王绩用"@充完整。了__.®”(SEFEEL))LISEARWAkat家乡,是每一个人生命的源头和精神的摇篮。家乡的ERiABC“AREHEE,©自然风光、风土人情总牵动着人们的内心。信步郑州园博©REit(C4E1B))PULFeAEAGIRS5BB园,我们感受到了白居易笔下"乱花渐欲迷人眼,O杜收以小见大用";SiMOLOL”CREAT)1576aBeatz3sBErerere((=i))BEGETRAATTELGRSTNHZE长垣的黄河湿地,水鸟振起纷飞,我们仿佛看到了李清照笔下|的*势"与*运";盏子观点鲜明地指出决定战争3.下面是小语学完本学期的古诗文后做的杭理,请你补全句子。“@.@.®"胜负的三要素及其关系的句子是:D古诗文中对偶手法的运用,使诗句既富有音律美,又富[《如梦令》(常记溪亭日萌)]的情景。虽然我们的家乡缺少点河南专版语文八年级上册A第1页共3页河南专版语文ATELt人教第2页共3页河南专版BK八年级上册人教第3页共3页”专项人44aaa—=一
+图片路径: extracted_images/1_语文周末作业_page2_img2.png 文本长度: 1823
+识别的文本内容:
+ARGERHRSSASHRJekFAHIMABHR,RSteMEARSOR全部交给母亲。这笔钱,是母亲和我们兄妹三人的生活开销。图因为交通不便利,也是为了省钱,他一般都是每年正月初二出门,腊月二十信回家。父亲常年不在家,回村时也很少串门吃酒。这在礼尚往来的乡村显得格格不入。乡和仓们私下里评价他“小气"“把钱看得太重"。然而,在那个物资短缺.粮食不够吃的年代,正是父亲的“小气”给了我们较为上般实的生活。他不仅让我们衣食无忧,也让我的母亲比村里其他女人更早戴上手表,跌上缝纪机，让我们在没有电视机的年代听上了收音机。图那台收音机的神奇作用,在许多年后显现了出来。我在收音机里听到过一个故事一《会说话的猪)。那时的我没想到猪还会说话,有计谋,对我们人类有那么多意见!这个故事令我震惊,也许,我的童话想象就是那时荫生的。加高中时,我是宁乡七中的学生,而高考考场设在六中。高考前一天下午,学校用一辆辆大卡车把我们送往考点。正是七月酷署,大卡车没有车篷,乡村公路上尘土飞扬。到达考点后,一身尘土的我们立即扑向水龙头,洗脸,洗手,洗去身上的尘垢。将自己洗得清清央央回到学生宿含休息时,我才发现,手表不见了!@@为了让我考试时方便看时间,母亲将她心爱的手表给了我。那时候,手表是家里的“三大件”之一,不知道父亲需要斤多和久的钱才能买到。那几天,我白天考试,夜里史泣,吃不下任何东西。考最后一门时,我浑身发拌,因为我害怕回家。@我最后一个走出教室,在走麻上居然看到了父亲。个子矮小的父亲手里捡着几个梨。原来，老师担心我出事,把持手表的事情打电话告诉了父亲。父亲从外地赶了回来。看见父亲,我的眼泪再次滋满眼眶。父亲递给我一个梨,我接过来,用小得不能再小的声音说:我把手表丢了。"“丢了FERARKAMLA"LRM,KMLT—vHM,MistyMittomRa-HKET.人学校的车已经开走了。我跟着父亲去镇上搭汽车回家,我们沿着河坦走,迎面的是正在西落的太阳,我们的家就在太阳将要落下的大山深处。路上,父亲再没有说一句话,甚至没有问我考得怎样。把挣钱和时间看得无比重要的父亲,得知我丢了手表,特意从外地赶来接我回家。我牢牢地记着这件事。这是一个确证一“在父亲的心中,我也是重要的。@@我考上了大学,父亲很高兴。他背着一口亲手打制的樟木箱,和母亲一起送我到长沙上学。@@直到六十多岁,父亲才结束了在外奔波的生活,安居老家。@我毕业后在出版社当编辑,因为写作,有了一点小名气。有一次,母校请我去做讲座,我提前一天开车回家看望父母,第二天上午去学校,讲座结束便回了长沙。后来听母亲说,那天父亲中着自行车骑行了三十多里,到学校去听我的讲座。可是父亲到学校时,讲座已经结束了5他只看到了欢迎我的横幅。1@"“他怎么不跟我说?我要是知道他感兴趣,我开车一并带上他就是了。"我抱怨道。他去的时候也没跟我说,是回来后才说的。"母亲说。父亲从未跟我说过这件事,我也未跟父亲提起。但从此以后,我只要出了新书,便会带一本回去给父亲,让他了解我的工作。父亲接过书;脸上总是笑昧BK加父亲去世后,前来吊喀的人群中,有一个从村里考上大学;如今很有成就的年轻人拉着我说;试卷8河南专版语文八年级上册人教第3页ABT—“我小的时候,桂阿公经常到我家来;每次来总是会带一本书送给我。我们乡里的小孩,哪里有课外书看,看书全人靠桂阿公"村里的孩子都叫我父亲“杜阿公"。@原来如此。难怪我在整理父亲的遗物时,没有看到我给他的那些书。我想起了我童年时代父亲带回的那台收音机。我希望父亲送给村里孩子的那些书,也像当年的收音机一样,能起到神奇的作用。6.DUEeed本文是一简回忆人性散文,文中记录了“我"与父亲之间的几件事，请你为每件事拟一个小标题。(4分)7.乡邻们评价父亲“小气"把钱看得太重",你是否认同这个评价?请结合全文内容,谈谈你的理解。(4分)8.阅读下面句子,根据括号中的要求回答问题。(4分)(1)我咬了一口梨,将清甜的梨汗和眼泪一并吞下。(从“我"的眼泪中能读出“我"怎样的心理?)(2)我腿着父亲去镇上搭汽车回家,我们沿着河坦走,迎面的是正在西落的太阳,我们的家就-.在太阳将要落下的大山深处。(运用了什么撒写方法?有怎样的表达效果?)9.有人认为本文标题(那个乘着风雪而来的“陌生大"》不如改为父亲》更好,你怎样认为呢?请谈谈你的看法。(4分)AhembXAFMLt人教第4页共8页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_column_2.png 文本长度: 1674
+识别的文本内容:
+()46.A.seriouslyB.angrilyC.clearlyD.widely()47.A.getonB.lookafterC.putonD.cutdown(48.A.toB.likeC.inD.on(49.A.lazyB.hardCaD.strict(505B.listenedCailD.got()51.A.UnlessB.SoC.ButD.When()52.A.canB.mustC.needD.will()53.A.ThisB.ThatC.ItD.He(。)54.A.forgatB.knewC.rememberedD.guessed()55.A.liveB.orderC.takeD.becomeBIAS(15小题,每小题1分,共15分)第一节”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺意思完整。每空限填一词,每词限用一次。writewaymakeyearthatofgoodrememberfinal=|Aswewillsaygoodbyetomiddleschool,myclassmatesandIwantedtorememberourexperiencesinmiddleschool.Wedecidedtocreateourownalumnibook(同学录)to56_thegoodtimeswehad.Asweworkedon这,wefound57___itwasagreatwaytorememberourtimeinmiddleschool.58__welookedthrougholdphotosandrememberedfunnythingsthathappenedintheclass,wealllaughed.We59_downourideasforthefuture.Andwegavethe60”wishestoeachother.Oneofthemostimportantpartsof61_ouralumnibookswasgettingtoworktogether.Wehelpedeachotherwithwritinganddrawing,andwesharedourideas.Itwasagreat62___tocreatesomethingtogether.Whenwe63__finishedouralumnibooks,weweresohappywiththeresults.Wecreatedsomethingtohelpusrememberourtimeinmiddleschoolfor64__inthefuture.Aswewillmoveontohighschool,weknowthatwewillalwayskeepourmemories(记忆)65_middleschool.Andthankstoouralumnibooks,wewillneverforgettheexperiencesandthepeoplewemetalongtheway.56.57.58.59.60.61.62.63.64.65.第二节”阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。Graceandherparentsliveonasmallfarm.Fromayoungage,Cracedoestheworkonthefarm66__herparents.Atfirst,shedidn'tlikeit57_all.Butwhenshegrewolder,shebegantoknowthemeaningofhardwork.Onesummer,herparentsdecided68__letagroupofyoungstudentsdotheirsummerworkontheirfarm.Theywereallfromthemiddleschool.TheyhopedtoleamaboutANLH@FIR共8试郑4等~英语”八年级共8页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_3.png 文本长度: 1733
+识别的文本内容:
+shoutedtootherbirdsatoncesothattheycouldflyaway.Everybirdflewaway,buthertwosistersdidn’t.Thehuntersawthecolorfulbird’ssisters.Heaskedthem,“Whydidn’tyouflyaway?”Theyanswered,“Thecolorfulbirdisoursister.Weloveeachother.”Thetwobirds’lovefortheirsistertouchedthehunter’sheart,soheletthecolorfulbirdfly.Afterthekingandthequeenlearnedaboutthethreebirds’story,theydecidednottokillthecolorfulbird.根据材料内容选择最佳答案、()26.Whatdidthecolorfulbirddointhequeen’sdream?A.Shekilledtheking.B.Shekilledthequeen.C.Shesleptintheforest.D.Sheflewafterthequeen.()27.Whydidn’tthecolorfulbird’ssistersflyaway?A.Thehuntercaughtthem.B.Theyweretooscared.C.Theylovedthecolorfulbird.D.Theyweretootiredtofly.()28.Whichquestioncouldbesthelpusfindoutthewriterspurpose(目的)?A.Didthewriterhopetokeepabird?B.Didthewriterwantustohavefun?C.Didthewriterteachustohuntbirds?D.Didthewritertellusastoryoflove?()29.WhichofthefollowingisTRUEaccordingtothepassage?A.Thequeenwantedtosavethecolorfulbird.B.Thecolorfulbirdlivedwiththekingandthequeen.C.Whilethecolorfulbirdwasdrinkingwater,ahuntersawher.D.Acolorfulbirdflewsoquicklythatthehuntercouldn’tcatchher.()30.Wheremaywereadthispassage?A.Inthestorycolumn(拦)ofamagazine.B.Inthefoodcolumnofamagazine.C.Inthetravelcolumnofamagazine.DInthesportscolumnofamagazine.Ofallthethingsweeatanddrink,wateristhemostimportant.Wecanlivewithoutfoodforsomedays,butifwedon’thavewaterforthreeorfourdays,wemaydie.Doyouknowwaterwell?Letmetellyou.TheBluePlanetisanothernameoftheearth.That’sbecauseaboutthree-fourthsoftheearthiscoveredbywater.Peoplethinkwearenotshortofwater.Infact,theyarewrong.Mostofthewaterissaltwater.Onlyabout3%isfreshwaterthatwecandrink.Youmightthinkthatmostofthefreshwaterontheearthisinthelakesandrivers.Infact,lessthanRG八年级上册@第4页共8页
+图片路径: extracted_images/1_语文周末作业_page1_img2_column_1.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/1_语文周末作业_page1_img2_column_1.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_16.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_16.png
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2_column_3.png 文本长度: 1719
+识别的文本内容:
+Today,technologyishelpingUSwiththisproblem.NewrobotscangiveelderlypeopleallkindsofCare,Thesimplestcarerobotsarelikepets,__7__Theybringrealjoytoelderlypeople,andnoonehastofeedthem.SomecarerobotsuseAl.Theycanhelpelderlypeoplewithmanythings.8Theymakevideocallstofamily.Also,iftherobot’sownerisintrouble,therobotwillcallsomeoneforhelp.Othercarerobotsdophysicaljobs.9Japanesehospitalsusetheserobotsnow.Thepeopletherelikethemalot.Manyoftheserobotsdon’tjusthelpelderlypeopledothings.Theyalsohelpthemfeelusefulandindependent(217AY).Somecompaniesmaketheirrobotslookweak.10Thatway,peoplewillcarefortherobotswhiletherobotscareforthem.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Therobotstellpeopletotakemedicine,doexerciseandseethedoctor.B.Manypeoplegetsickandneedcare.C.Theylookliketheyneedcare.D.Theypickthingsup,helppeoplewalk,andleadgroupsindances.E.Whenyoutouchthem,theywillmoveormakeanimalsounds.6.7.8.9.10.C(A:Unit9&)主题:人与社会一一文化习俗Withtheholidayscomingup,lotsofpeoplewillbehavingparties.Wanttomakesureyouareagoodhost/hostessorguest?__11@Wheninvitinggueststoyourparty,sendinvitationstotheirhomesinsteadofhandingthemoutatschool.12_@Waitforallyourgueststoarrivebeforestartinganyactivities.Ifpeopleatthepartydon’tknoweachother,makesureyouintroduceeveryone.@_13Aftertheparty,besuretosendahandwrittenthank-youcardtoeachguest,tellingthemhowmuchyouliketheirgifts.@Whenyoureceiveaninvitationtoaparty,besuretoletthehost/hostessknowifyoucancome.@Arriveontime.Bringagifttoabirthdayparty.14Adultsoftenbringsomedessertorabottleofwinetoaparty,evenifthehost/hostesstellsthemthathe/shedoesn’tneedanything.Youngpeopledon’thavetodothis,butit’salwayspolitetoask.@Befriendlytotheotherguests.Remembertosay“Please”and“Thankyou”!15__英语AFR上册@第2页共3页
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2_column_2.png 文本长度: 1487
+识别的文本内容:
+提分专练2”任务型阅读~eoeoog0g0080A(话题:Unit10AR)主题:人与自我一一处理问题的方法和建议Ifyouhavesomeproblems,whatwillyoudo?Willyouaskyourparents,yourteachersoryourfriendsforhelp?__1__Herearesomegoodsuggestions(建议)foryou.Asksomeoneforhelp.You’dbettertellothersaboutyourbadfeelings.Rememberthatmanypeoplewilllovetohelpyou.Don’tbehardonyourself.Whenyouhaveproblems,findsomeoneyoutrustandaskhimorherforhelp.Dosomethingrelaxing.2Speakingoutyourfeelingsloudlyisagoodway.Forexample,whenyoufeelangry,youcansay“Iamsoangry!”loudly.Afterthat,youmayfeelrelaxed.Youcanalsotakesomeexercise,listentomusic,keepadiary,playwithapet,goforawalkandsoon.3Becalm(平静的).Whenyouhaveproblems,youshouldlearntobecalm.Don’tbenervous._4_Don’tmushtomakedecisions.Youshouldtrytounderstandmoreaboutyourproblemswiththehelpofothers.Thenyoucanfindgoodwaystodealwiththem.__5__Ifyousmileatyourselfandkeepagoodmood,youmayfindtheproblemsarebecomingsmallerandsmaller.Thismeansthatyouareabletosolvetheproblemsmorequickly.So,dearfriends,ifyouhaveproblems,doasItoldyou.Everythingwillbefine.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Youcandosomethingtomakeyourselffeelrelaxed.B.Don’tbeafraidoftheproblems.C.What’smore,smilingalwayshelpsalot.D.Doyouknowhowtodealwithyourproblemsinarightway?E.Thesethingscanhelpyougetabetterfeeling.1.2.3.4.5.B(话题;:Unit7未来的生活)主题:人与社会一一科学与技术Peoplearelivinglongerandlongernow.That’sgoodnews.However,gettingoldcanbringalotofproblems.6_Whentherearemanyelderlypeopleinsociety,findingcareisdifficult.Therearen’tenoughpeopletodothisjob.
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_4.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_4.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_2.png 文本长度: 1534
+识别的文本内容:
+|WatchmoviesReadbooksWehavesomemoviesaboutseriousenvironmentalWehavebooksonnatureforyoutoread.problems.Cometo‘readinourreadingclub.YoucanshareAge:over10yearsoldyourideasherewithothers.Place;inthemoviecenterofthefifthfloorAge:allagesPlace:inRoom4ofthefourthfloorTime:4:30p.m.—7;30p.m.Theroomcanholdupto50people.Sopleasecallusonedayearlierifyouwanttocome.根据材料内容选择最佳答案。()21.MikeisrefusedtotakepartinthestorytellingactivityprobablybecauseA.heisfifteenyearsoldB.hearnvesat10:30a.m.C.heisnotgoodattellingastoryD.hegoestothehallofdiefirstfloor122.Howlongdoesthemoney-raisingactivitylast?A.Fortwohours.B.Forthreehours.C.Fortwoandahalfhours.D.Foroneandahalfhours\)23.Jerrywillbefreeat2;30p.m.,whichactivitycanhejoinin?A.Hecantellastory.B.Hecanbeavolunteer.C.Hecanreadintheclub.D.Hecanwatchamovie.()24.Whenshouldwecallthelibrarytoseeamovie?A.OnJuneSth.B.OnJune3rd.C.OnJune4th.D.OnJune2nd.()25.WhichofthefollowingisTRUE?A.Evenlittlekidscanreadintheclub.B.Themovieisaboutthehistoryofthelibrary.C.Thelibraryraisesmoneytocleanthecity.D.Thestorytellingactivityisonthesecondfloor.BLonglongago,therewasacolorfulbirdlivingintheforest.Shehadtwosisters.Onenight,thequeen(=Ja)ofacountryhadadream—acolorfulbirdflewafterher.Thenextmoming,sheaskedthekingtohunt(42%)thecolorfulbirdsothatshecouldmakeacolorfulhat.Thekingsentallofthehuntersinhiscountrytolookforthecolorfulbird.Onehunterfoundthecolorfulbird.Whenthehuntersawher,shewasdrinkingwaterbytheriver.Whenthebirdsawthehunter,shetriedtoflyaway.Unluckily,thehuntercaughtherwithanet.SheiRE4“Sew英语八年级tH@第3页共8页
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题4_page2_img2_projection.png
+图片路径: extracted_images/英语必刷卷 专题4_page1_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题4_page1_img2_projection.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page4_img2_projection.png
+图片路径: extracted_images/1_语文周末作业_page1_img2_column_2.png 文本长度: 873
+识别的文本内容:
+期末复习第4步做模拟试卷82024KMRL八年级语文命题人:朝霞文化产品研发中心”周梦九BRR时间:120分钟”满分:120分一、积累与运用(共23分)“山川之美,古来共谈。"河或测涌,或涓涓;山或并峨,或灵秀。山川有千姿百态的美,人们寄托在其中的精神也各不相同。校刊决定出一期“览大好河山,感人文精神栏目,请你参与。【版块一:栏目前言】1.校刊编辑部想为此栏目征集一段前言来介绍祖国大好河山,小河写了一段文字准备投稿，a里面有一些字词他拿不准,请你帮他判断。(共4分)前言中国地大物博,名山大川不胜枚举。从北国的长白山到南恰的桂林山水,从西隆的天山山脉到东海岸边的雁荡山,每一处都有其独特的(A揭)味。我爱黄河的迁回曲折,我爱长江的奔流不息,我爱大渡河的波澜壮阔,我爱东岳泰山的峰刘航OEME)RRELON,RBIM0)FAB每一座山峰都是一幅生动的画卷,每一道河流都是一段悠扬的乐章。让我们共赴这场美的盛袜,感受祖国河山之锦绣壮美,体会河山精神之源远流长。(1)语段中的两个加点字应该怎么读?请写出正确的读音。(2分)迁(wlSE:(2)语段中两个横线处应分别选用哪个字?请在横线上工整书写。(2分)【版块二:黄河篇】2.校刊编辑部搜集了关于黄河的资料,请你阅读资料并根据提示,把思维导图上的信息补充完整。(4分)a,|从雪山到海洋,黄河经历了一路惊险传奇。先是穿越山地峡谷,在忽宽忽罕的河道中穿行,急流之后她以放松的流消方式,造就出富饶的河套平原;随后她急转朝南,飞流直下,将黄土高原的泥沙衷挟而去,于激流奔涌的过口形成滔滔深布,于两岸断崖绝壁间形成险要龙门;继而摇荡前行,过三门峡,长驱直入;横贯华北平原,将河道逐年抬高;形成世界著名的“地上OT”;ASKY,又将挟带而来的泥沙堆积成一块块新生的陆地,任那里绿芽戎REAM.BRFRLWRSQRHITKAHTH.>1n14cetTOM£oRFANO_【版块三:长江篇】3.校刊编辑部搜集了一段与长江有关的文字,放在了长江版块,但是中间有几句的顺序排版时河击去凤CTALY上册Aw第1页aR
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_15.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_15.png
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2_column_1.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题2_page1_img2_column_1.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_14.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_14.png
+图片路径: extracted_images/1_语文周末作业_page1_img2_column_3.png 文本长度: 791
+识别的文本内容:
+和弄乱了。请你重新排列出最恰当的顺序,将句子序号依次填在横线上。(3分)长江流经11个省，，可以说,长江文化是一个时空交织的多层次、多维度的文化复合体。@各具特色的区域文化交汇融合.互联互补@孕育了青藏地区的藏羌文化.长江上游的巴蜀文化.长江中游的楚湘文化等@形成了一条独具特色的文化聚集带OIATAREKILI【版块四:泰山篇】4.校刊编辑部在秦山版块想图文并茂地展现泰山的精神内涵。现需要给下面这段找好的文字材料配一幅图,插画部提供了A、B两幅备选图,你建议选择其中哪一幅?请结合画面内容,简要说明理由。(4分)有hbPERS,民族意志、RikLA&;[共山之精神特征，已成为中华民族精神的重要标识o…泰山、精神"包含“会凌绝项"的攀登意志、“重如泰山"的价值取向、“RikLI”HyHtAIR“is!paiSakereonon.=e.ef[ARA]5.校刊编辑部想探究山水给予中国古代文人的灵感和情思,请你将空缺的古诗文名句补充完整。(8分)中国文人流连钟情于山水,山水给予中国文人太多的灵感与情思三峡》中的"D,隐天蔽日"是本道元对山峡壮阔的描绘,人《答谢中书书》中的“儿日欲并,@"是陶弘景笔下灵动的美景《野望)中的“G),@"是王绩勾勒的夕阳晶染下秋意颇浓的山野之美,《黄稚楼)中的“@7@"是崔颖抒写的浓烈乡愁,饮酒六其五)中的“@),图“””“"是陶渊明陶醉自然的悠然自得。二、现代文阅读(共27分)(一)阅读下文,完成6-9题。(共16分)那个乘着风雪而来的“陌生人”汤素兰@D在我童年的记忆里;父亲是每到年关冬着风雪而来的“陌生人"”。@@这个“陌生人"总会带回一口“宝箱"。打开箱子,里面塞满了好看的布料和我们平时从未见过的糖果,当然,还有最最重要的东西一一钱。当天晚上,父亲把要上交给生产队买工分和口粮的wheeseyfASE-上册OAH第?页bow+sGC
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_1.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_1.png
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2.png 文本长度: 4260
+识别的文本内容:
+9”oneachphoto.Shehopedthosewouldhelpus10_theNowadaysyoucanchoose__9Youcanmakebirthdayinvitationsby_10__ifyouhavetime.Youmanykindsofbirthdayinvitations.happytime.a2.3.4.5.canalsodrawpicturestomakethebirthdayinvitationsmorebeautiful.6.7.8.9.10.Vs2.34.5.第二节(话题:Unit2业余生活)”阅读短文,根据语篇要求6.7.8-一910.填空,使短文通顺,意思完整。每空限填一词。主题:人与自我一一生活方式“Earlytobedandearlytorisemakesamanhealthy,wealthyandwise.”Thisisanoldsaying.Itmeansthatwehadbettergotobedearlyatnightandget_11__earlyinthemorning.Thisistrue.Weshouldhaveenoughsleep_12_keephealthy.Childrenshouldhave13__leasteighthours’sleepeverynight.14_theydon’thaveenoughsleep,theywon’tstudywellatschool.Thebodyalsoneedsexercise.Walking,running,jumping,swimmingandplayinggames15__allgoodexercise.Exercisehelpstokeepthebodystrong.Italsohelpsthebloodtoflowinsidethebody.Theheadneedsblood,soexercisehelpsustothinkbetter.11.12.13.14.15.D第一节(话题:Unit9Kea)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺意思完整。每空限填一词,每词限用一次。主题:人与社会一一文化体验youoldbecauseshopsendtimemeaningeverythingwaitfromBirthdaysareimportantineveryone'slife,especiallyforchildren.Forabout365dayschildren1__forthatimportantday.Onthatday,theywillbecomeoneyear2__thanbefore.Birthdaysarealsothebest3andspecialbirthdayparty,youtohaveapartywithyourfriendsandfamily.Tohavea4needtopreparelotsofthings.Youneedtohaveenoughtimetoget__5___readyfortheparty.Youmaywantyourfriendstocometotheparty6wayisto7____birthdayinvitationstothem.Birthdayinvitationswillmakethemrememberyourbirthday.Youcanbuybirthdayinvitationsin8[专题4Bs英语MVRtH@第4页HORyouwanttoshareyourhappinesswiththem.ThebestorontheInternet.Ba(A:Unit4环境)”阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。主题:人与自然一一家乡的自然环境WhenIwas8,1livedinafarawaymountainvillagewith__11__grandparents.It’scalledAnle.It’sabout80kilometersawayfromthecityofXiangtaninHunan.Now,IliveinGuangzhouwithmyparents.ButIreallymisslivinginthevillage.ThereweremanythingsIcoulddothere.Ineverfeltbored.Insummer,Ilooked_12crabs(98%)inasmallriver.WhenImovedastone,acrabcameout.Ihelditspincers(#%)andthenputitinabucket.And_13autumn,]likedtogotoanearbyhill.Iclimbeduptreesandhelpedtopickchestnuts(板栗)formygrandparents.Ialsolikedthevillagers,astheywereveryhospitable(好客的).Therewas14oldmanlivingnearmyhome.Oneday,whenIpassedhishouseafterschool,hegavemesomebiscuits.Iwentinsidehishouseandfoundthathewasverypoor,15fewbelongings(物品)otherthanacow.Buthewasstillkindtome.Thisismyhometownwheremychildhoodmemoriesweremade.Imissitandmygrandparentsaswell.11.12.13.14.15.E第一节(SA:Unit8食物)阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺意思完整。每空限填一词,每词限用一次。主题:人与自我一一饮食与健康SometimeschoosingwheretoeatinSuzhouissomethingofachallenge.Nomatterhowgoodthefoodtastesatachosenrestaurant,onemayalwayswonder,“Isthereanything1onthenext英语MER上册@第5页共6页street?”However,Tvefoundtheanswertothisquestion.If’'maskedrightaway,“SongHeLouRestaurant”.WhyisSongHeLousospecialamonghundreds3tonamemyfavoriteplacetoeatinSuzhou,Iwill2_restaurants?Well,forme4comesdowntoaperfectbalanceofdeliciousfood,pleasantatmosphere(氛围)and__5___near-perfectplace.BeforecomingtoSuzhou,Iwastoldbymyfriendsfromother__6_inChinathatthefoodcouldbetoosweet.ForthefirstfewmonthsI7ofeatingmuchlocalfood.However,after8toeatinSichuanorHunanstylerestaurantsinsteadinlovewiththecity,Icametorealizethatthefoodissocloselyconnectedwithitslocalculture.SoIaskedalocalfriendtorecommend(推荐)thebestplaceto9___reallocalstylefood.ShecameupwiththesuggestionofSongHeLou.Forafirst-timevisitor,“SongShuGuiYu”and“XieFenTofu”areexcellentchoices.Suzhouhasnowbecomemyhome_10__Ihavealifetimetoenjoyeachandeverydishonthemenu.1;2;3:4.5:6.78.9.10.57(AC:Unit10AR)”阅读短文,根据语篇要求填空,使短文通顺意思完整。每空限填一词。主题:人与自我一一处理问题的方法和建议TodayDavehasaproblem.Hewasnothappy.ActuallyDavewasupsettoday.Hekeptthinkingaboutthemistakehemadeinthesoccergame.Becausehewascareless,histeamlostthegame_11_theend.Dave’smotherwasanunderstandingwoman.12_arrivedhome,shesawthathewassad.Aftersheknewthewholestory,shetoldhersonwinning_13_advisedDavetotalktohisteammates(队友).Sheaddedthatthemostimportantthingwastosupport(支持)eachotherintheteam.WhathismothersaidmadeDavethinkalot.Heknewheshouldn'tbeangry14_himself.Heshouldtryhisbesttosolvehisproblems.Atlasthetookhismother’sadvice.Heapologized(if#)tohisDavelosingwasnotimportant.Sheteammatesforhismistakes.15_hissurprise,histeammatesstilltrustedhim.Theyallhugged(拥抱)him.Davewasmoved.11.12.13.14.15.RBAFR上册©第6页HOR
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_projection.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_3.png 文本长度: 1622
+识别的文本内容:
+Lastly,39Youcanchooseabookoramagazinethatyoulike.Youcanalsoreadnewspapers,_40It’seasyforyoutounderstand.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.readwhatinterestsyou.B.trytounderstandthenewwords.C.trytoreadattherightlevel(7K>#).D.andtherearemanyEnglishnewspapersinChina.E.trytoreadforashorttimeonceaday.36.37.38.39.40.三、完形填空(15小题,每小题1分,共15分)先通读短文,掌握其大意,然后从A.B、C、D四个选项中选出一个可以填人相应空白处的最佳答案。Jefflovedeatingjunkfoodandplayingvideogamesalldaylong.Hedidn’t_41__andoftenstayeduplateatnight.Asaresult,hebecameheavyandunhealthy.Oneday.Jeff’sdoctortoldhimthathemust_42newhabitsifhewantedtostayhealthy.Jeffwas_43andwonderedwhathewoulddo.“Well,youneedtostarteatinghealthierfoodandexercising,”thedoctor44__.“It’salsoimportantforyoutogetenoughsleep.”Withthesewords,thedoctor45_himsomeguidebooksandalistofhealthyfood.Jefftookthedoctor’sadvice46.Hestartedtoeatmorefruitandvegetablesand47_junkfood.Healsoexercisedeveryday,48goingforarunorgoingforabikeride.HemadesuretosleepeighthourseverynightandtriedtodosomereadingorplaymusicinsteadofplayingvideogamesAtfirst,itwas49forJefftogoonhisnewlifestyle.“Imissmyoldhobbies,”he50tohisfriend,Tom.“51__thinkabouthowmuchbetteryouwillfeelifyoukeepitup,”Tomsaid.“Andwe52___exercisetogethertomakeitmorefun.”Overtime,Jeffbecamethinner.53_wasniceforhimtofeelbetter.Intheend.he54thatahealthylifestylewasnotonlyaboutphysicalhealthbutalsoaboutmental(心理的)health.Hethankedthedoctorformakinghim55__ahappyandhealthylife.()41.A.speakB.exerciseC.relaxD.talk()42.A.haveB.goC.playD.eat()43.A.worriedB.gladC.relaxedD.moved()44.A.arrivedB.heardC.repliedD.invited()45.A.handedB.borrowedC.boughtD.keptREAR上册@@第6页一只试卷4
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_5.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_5.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_10.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_10.png
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2_column_5.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题2_page1_img2_column_5.png
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2_column_4.png 文本长度: 1576
+识别的文本内容:
+根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Whenyouleave,thankthehost/hostessfortheparty.B.Ifit’saholidayparty,askthehost/hostessifthere’ssomethingyoucanbring.C.Inthisway,youwon’thurtthefeelingsoftheclassmatesyoudon’tinvite.D.Hereissomegoodadvice.E.Ifyourguestsbringgiftsforyou,thankeachonewhenyouopentheirgifts.11.12.13.14.15.D(#4:Unit4你居住的城镇)主题:人与社会一一家乡和社会的变迁Shibanyan,abeautifultowninHenanprovince,isapopularplaceforartlovers.Everysummer,artstudentsfromalloverthecountrycomeheretopracticepainting.Thetownsitsinthehillsandforests.16Theyareusedtotheold-fashionedwayoflife,gettingupwiththechickenstodofarmworkandgoingtobedsoonaftersunset.ShibanyanleansontheTaihangGrandCanyon(倚靠太行大峡谷),soit’seasytogetrockshere.17Inrecentyears,therockhouseshavebecomethetown’smainfeature.Andmanyvisitorscomeheretotakealookatthespecialhouses._18Asaresult,somelocalslefttheirhomestofindjobsinotherplaces.However,thingsbegantochangeinthe1990s.Atthattime,agroupofteachersandstudentsfromartschoolsfoundthisbeautifultownandmadeitabaseforpainting.19AndthetownisstillworkinghardtobuilditselfintoChina’s“paintingvalley”.Shibanyanhasbecomeaplacefortouriststobetterunderstandthenaturallifestyleaswell.ThemaintouristseasonhereisusuallyfromApriltoOctober.20_Moreover,theycanpickfreshfruitandmakedeliciousfruitcakes.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Infact,Shibanyanusedtobeapoortown.B.Thelocalpeoplebuilttheirhouseswiththerocks.C.Now,thereare141paintingbasesinShibanyan.D.Therearelessthan10,000peoplelivinginthetown.E.Touristscantryplantingvegetablesduringtheirstay.16.17.18.19.20.英语八年级上册@第3页共3页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_projection.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_11.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_11.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_2.png 文本长度: 1836
+识别的文本内容:
+1%ofthefreshwatercanbefoundintheseplaces.Around70%oftheearth’sfreshwaterisiceinthepolar(极地的)places.Theyarefarfromus.Andthewaterthereistoughtocarry.Thesecondmostfreshwaterontheearthisgroundwater.Someplacesdon’thavefreshwaterfromriversandlakes,sothepeoplethereusegroundwaterfordrinkingandotheruses.Butbecausepeopleusechemicals(化学制品)infarmingandfactones,somegroundwater1spolluted.Theearthhaslittleusablewater.Luckily,eachofuscandosomethingtosavewater.Peoplearesavingwaterwiselyintheirowncities.Ifweworktogether,wewillhaveabetterworld.根据材料内容选择最佳答案。¢)31.Whatpercentageoftheearthiscoveredbywater?A.About25%.B.About75%.C.About43%.D.About85%.()32.Whatdoestheunderlinedword“tough”inParagraph3mean?A.Difficult.B.Common.C.Dangerous.D.Easy.()33.Whichonecanleadtothepollutiontogroundwateraccordingtothepassage?A.Rain.B.Ice.C.Salt.D.Chemicals.()34.WhichofthefollowingisTRUE?A.Peoplearenotshortofwater.B.Mostofthewaterontheearthisfreshwater.C.Wecanfindmostofthefreshwaterintheriversontheearth.D.About70%oftheearth’sfreshwaterisiceinthepolarplaces.()35.Whatisthepurposeofthepassage?A.Askpeopletosavewater.B.Talkaboutthepollution.C.Tellreadersdifferentkindsofwater.D.Tellsomethingsaboutfreshwater.DWhenyouarelearningEnglish,reading1sveryhelpful.Whenyouread,youcannotonlylearnsomenewwords,butalsolearnhowtousethem.Whenyouread,itgivesyouagoodexampleforwriting.Herearesomegoodreadingtips.Firstly,36Readsomethingthatyoucanunderstand.Ifitistoohardforyou,itisnotinteresting.Secondly,37___Iftherearefourorfivenewwordsonapage,don’tuseadictionary.Instead,trytoguesstheirmeaningsasyouread,markthemwithapencil,thenlookthemupinadictionarywhenyoufinishreading,andwritethemdowninyournotebook:trytorememberthem.Thirdly,38FifteenminutesorhalfanhoureverydayisbetterthantwohourseverySunday.Forexample,youcanreadbeforeyougotobedorafteryougetuporatlunchtime.英语AFR上册@@第5页共8页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_4.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_4.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_6.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_6.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2.png 文本长度: 3299
+识别的文本内容:
+WatchmoviesReadbooksWehavesomemoviesaboutseriousenvironmentalWehavebooksonnatureforyoutoread.problems.Cometo‘readinourreadingclub.YoucanshareAge:over10yearsoldyourideasherewithothers.Place;inthemoviecenterofthefifthfloorAge:allagesTime:4:30p.m.—7;30p.m.Place:inRoom4ofthefourthfloorTheroomcanholdupto50le.SopleaseTime:2:00p.m.一4:30p.m..iaincallusonedayearlierifyouwanttocome.根据材料内容选择最佳答案。()21.MikeisrefusedtotakepartinthestorytellingactivityprobablybecauseA.heisfifteenyearsoldB.hearnvesat10:30a.m.C.heisnotgoodattellingastoryD.hegoestothehallofdiefirstfloor122.Howlongdoesthemoney-raisingactivitylast?B.Forthreehours.D.ForoneandahalfhoursA.Fortwohours.C.Fortwoandahalfhours.\)23.Jerrywillbefreeat2;30p.m.,whichactivitycanhejoinin?A.Hecantellastory.B.Hecanbeavolunteer.C.Hecanreadintheclub.()24.Whenshouldwecallthelibrarytoseeamovie?B.OnJune3rd.D.Hecanwatchamovie.C.OnJune4th.D.OnJune2nd.A.OnJuneSth.()25.WhichofthefollowingisTRUE?A.Evenlittlekidscanreadintheclub.B.Themovieisaboutthehistoryofthelibrary.C.Thelibraryraisesmoneytocleanthecity.D.Thestorytellingactivityisonthesecondfloor.BLonglongago,therewasacolorfulbirdlivingintheforest.Shehadtwosisters.Onenight,thequeen(=JG)ofacountryhadadream—acolorfulbirdflewafterher.Thenextmoming,sheaskedthekingtohunt(474%)thecolorfulbirdsothatshecouldmakeacolorfulhat.Thekingsentallofthehuntersinhiscountrytolookforthecolorfulbird.Onehunterfoundthecolorfulbird.Whenthehuntersawher,shewasdrinkingwaterbytheriver.Whenthebirdsawthehunter,shetriedtoflyaway.Unluckily,thehuntercaughtherwithanet.She|试卷4ee英语AFRtH@BIR共8页shoutedtootherbirdsatoncesothattheycouldflyaway.Everybirdflewaway,buthertwosistersdidn’t.Thehuntersawthecolorfulbird’ssisters.Heaskedthem,“Whydidn’tyouflyaway?”Theyanswered,“Thecolorfulbirdisoursister.Weloveeachother.”Thetwobirds’lovefortheirsistertouchedthehunter’sheart,soheletthecolorfulbirdfly.Afterthekingandthequeenlearnedaboutthethreebirds’story,theydecidednottokillthecolorfulbird.根据材料内容选择最佳答案、()26.Whatdidthecolorfulbirddointhequeen’sdream?A.Shekilledtheking.B.Shekilledthequeen.C.Shesleptintheforest.D.Sheflewafterthequeen.()27.Whydidn’tthecolorfulbird’ssistersflyaway?A.Thehuntercaughtthem.C.Theylovedthecolorfulbird.()28.Whichquestioncouldbesthelpusfindoutthewriterspurpose(目的)?B.Theyweretooscared.D.Theyweretootiredtofly.A.Didthewriterhopetokeepabird?B.Didthewriterwantustohavefun?C.Didthewriterteachustohuntbirds?D.Didthewritertellusastoryoflove?()29.WhichofthefollowingisTRUEaccordingtothepassage?A.Thequeenwantedtosavethecolorfulbird.B.Thecolorfulbirdlivedwiththekingandthequeen.C.Whilethecolorfulbirdwasdrinkingwater,ahuntersawher.D.Acolorfulbirdflewsoquicklythatthehuntercouldn’tcatchher.()30.Wheremaywereadthispassage?A.Inthestorycolumn(拦)ofamagazine.B.Inthefoodcolumnofamagazine.C.Inthetravelcolumnofamagazine.DInthesportscolumnofamagazine.Ofallthethingsweeatanddrink,wateristhemostimportant.Wecanlivewithoutfoodforsomedays,butifwedon’thavewaterforthreeorfourdays,wemaydie.Doyouknowwaterwell?Letmetellyou.TheBluePlanetisanothernameoftheearth.That’sbecauseaboutthree-fourthsoftheearthiscoveredbywater.Peoplethinkwearenotshortofwater.Infact,theyarewrong.Mostofthewaterissaltwater.Onlyabout3%isfreshwaterthatwecandrink.Youmightthinkthatmostofthefreshwaterontheearthisinthelakesandrivers.Infact,lessthanRG八年级上册@第4页共8页二RECTSerres
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2.png 文本长度: 3558
+识别的文本内容:
+HEfoHF;,Kea,FAREFRU,看3.字迹有要写清娄@--------@--------@--班级学号MitFe姓名&wennneninn+=Qe==Be~~-@+--+---1%ofthefreshwatercanbefoundintheseplaces.Around70%oftheearth’sfreshwaterisiceinthepolar(极地的)places.Theyarefarfromus.Andthewaterthereistoughtocarry.Thesecondmostfreshwaterontheearthisgroundwater.Someplacesdon’thavefreshwaterfromriversandlakes,sothepeoplethereusegroundwaterfordrinkingandotheruses.Butbecausepeopleusechemicals(化学制品)infarmingandfactones,somegroundwater1spolluted.Theearthhaslittleusablewater.Luckily,eachofuscandosomethingtosavewater.Peoplearesavingwaterwiselyintheirowncities.Ifweworktogether,wewillhaveabetterworld.根据材料内容选择最佳答案。¢)31.Whatpercentageoftheearthiscoveredbywater?A.About25%.B.About75%.C.About43%.()32.Whatdoestheunderlinedword“tough”inParagraph3mean?A.Difficult.B.Common.D.About85%.C.Dangerous.D.Easy.()33.Whichonecanleadtothepollutiontogroundwateraccordingtothepassage?A.Rain.B.Ice.C.Salt.D.Chemicals.()34.WhichofthefollowingisTRUE?A.Peoplearenotshortofwater.B.Mostofthewaterontheearthisfreshwater.C.Wecanfindmostofthefreshwaterintheriversontheearth.D.About70%oftheearth’sfreshwaterisiceinthepolarplaces.()35.Whatisthepurposeofthepassage?B.Talkaboutthepollution.D.Tellsomethingsaboutfreshwater.A.Askpeopletosavewater.C.Tellreadersdifferentkindsofwater.DWhenyouarelearningEnglish,reading1sveryhelpful.Whenyouread,youcannotonlylearnsomenewwords,butalsolearnhowtousethem.Whenyouread,itgivesyouagoodexampleforwriting.Herearesomegoodreadingtips.Firstly,36Readsomethingthatyoucanunderstand.Ifitistoohardforyou,itisnotinteresting.Secondly,37___Iftherearefourorfivenewwordsonapage,don’tuseadictionary.Instead,trytoguesstheirmeaningsasyouread,markthemwithapencil,thenlookthemupinadictionarywhenyoufinishreading,andwritethemdowninyournotebook:trytorememberthem.Thirdly,38FifteenminutesorhalfanhoureverydayisbetterthantwohourseverySunday.Forexample,youcanreadbeforeyougotobedorafteryougetuporatlunchtime.英语AFR上册@@第5页共8页Lastly,39Youcanchooseabookoramagazinethatyoulike.Youcanalsoreadnewspapers,_40__It’seasyforyoutounderstand.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.readwhatinterestsyou.B.trytounderstandthenewwords.C.trytoreadattherightlevel(7K>#).D.andtherearemanyEnglishnewspapersinChina.E.trytoreadforashorttimeonceaday.36.37.38.39.40.三、完形填空(15小题,每小题1分,共15分)先通读短文,掌握其大意,然后从A.B、C、D四个选项中选出一个可以填人相应空白处的最佳答案。Jefflovedeatingjunkfoodandplayingvideogamesalldaylong.Hedidn’t41_andoftenstayeduplateatnight.Asaresult,hebecameheavyandunhealthy.Oneday.Jeff’sdoctortoldhimthathemust_42_newhabitsifhewantedtostayhealthy.Jeffwas43_andwonderedwhathewoulddo.-“It’salso“Well,youneedtostarteatinghealthierfoodandexercising,”thedoctor44_importantforyoutogetenoughsleep.”Withthesewords,thedoctor45_himsomeguidebooksandalistofhealthyfood.Jefftookthedoctor’sadvice46.Hestartedtoeatmorefruitandvegetablesand47_junkfood.Healsoexercisedeveryday,48goingforarunorgoingforabikeride.HemadesuretosleepeighthourseverynightandtriedtodosomereadingorplaymusicinsteadofplayingvideogamesAtfirst,itwas49forJefftogoonhisnewlifestyle.“Imissmyoldhobbies,”he50tohisfriend,Tom.“51___thinkabouthowmuchbetteryouwillfeelifyoukeepitup,”Tomsaid.“Andwe__52__exercisetogethertomakeitmorefun.”Overtime,Jeffbecamethinner.53__healthylifestylewasnotonlyaboutphysicalhealthbutalsoaboutmental(心理的)health.Hethankedthedoctorformakinghim55__ahappyandhealthylife.wasniceforhimtofeelbetter.Intheend.he54thata()41.A.speakB.exerciseC.relaxD.talk()42.A.haveB.goC.playD.eat()43.A.worriedB.gladC.relaxedD.moved()44.A.arrivedB.heardC.repliedD.invited()45.A.handedB.borrowedC.boughtD.kept英语AFR上册@@第6页HBR一人试卷4若
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_13.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_13.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2_projection.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_12.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_12.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_7.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_7.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page3_img2_column_1.png 文本长度: 43
+识别的文本内容:
+‘WEGHtaeRyY¥YcREEDHMEEBEE[EkoSHHTERSLsike8#
+图片路径: extracted_images/1_语文周末作业_page1_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/1_语文周末作业_page1_img2_projection.png
+图片路径: extracted_images/英语必刷卷 专题4_page1_img2_column_4.png 文本长度: 1418
+识别的文本内容:
+第二节(话题:Unit7未来的生活)阅读短文,根据语篇要求填空,使短文通顺意思完整。每空限填一词。主题:人与社会一一科学与技术Youmayseerobotsinsomemovies.Therobotsinthesemoviesarefaster,smarterandstronger_11__people.Inreallife,youcanseerobotseverywhere.Robotsareoftenused12dodangerousandboringjobsinfactories.Inpeople’shomes,robotscanhelptocleanthewindowsandthefloor.Theycantakemealsfromthekitchentothesickpeople’sroominAmericanhospitals.Theycanremembermapseasily13_theywon'tlostway.Somepeopleusearobottohelpthemgetbetterbecausetheycan’tmove.Andfinallytheycouldwalkaround_14a_normalman.Peoplewillimproverobots15_thedevelopmentofscienceyearafteryear.Scientistsareworkinghardtomakerobotswalkandjumplikehumans.11.12.13.14.15.Cc第一节(话题:Unit1RR)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺、意思完整。每空限填一-词,每词限用一次。主题:人与自我一一生活与学习onwetogetherreaddrivewordhappy_haveticketrememberMyfamilywentonatriplastSaturday.Wedidn’tspendmuchmoneybutreally_1agoodtime.Inthemoming,myfather__2__ustoasciencecenterinourcity.Wedidn’tspendanymoneyonthe3__becausethecenterwasfree.Thereisachildren’sareainthesciencecenter.MybrotherandIsawdifferentkindsofanimalsanddidsomeinterestingthings.Webothhadalotoffunplaying__4_inthesciencecenter.Thenwewenttoaparknearthesciencecenterin5__car.Myparentsputupthetentfirst,andthenwehadapicnic6__.Afterthepicnic,myfatherstartedto___/___newspapersandmymotherplayedgameswithme.Intheafternoonwegotbackhome.Itumed3___thecomputerandcopiedallthephotoswetook.Mymotherevenwrotesome英语八年级1H@第3页HOR专题4E
+图片路径: extracted_images/1_语文周末作业_page1_img2.png 文本长度: 1686
+识别的文本内容:
+期末复习第4步，做模拟\和弄乱了。请你重新排列出最恰当的顺序,将句子序号依次填在横线上。(3分):fi长江流经11个省，民，，。可以说,长江文化是一个时试卷82024ee王朝肥一模空交织的多层次、多维度的文化复合体。basOBAF(6.19KRAZEITEFh@孕育了青藏地区的藏羌文化,长江上游的巴蜀文化\长江中游的楚湘文化等é命题人:朝霞文化产品研发中心”周梦娜BR时间:120分钟满分:120分ORTACHeR一.积累与运用(共23分)DiCRNAIE、意获深厚的长江文化山川之美,古来共谈。"河或测涌,或涓涓;山或帘峨,或灵秀。山川有千姿百态的美,人们【版块四:泰山篇寄托在其中的精神也各不相同。校刊决定出一期“览大好河山,感人文精神"栏目,请你参与。4.校刊编辑部在泰山版块想图文并茂地展现泰山的精神内涵。现需要给下面这段找好的文字【版块一:栏目前言】材料配一幅图,插画部提供了A、B两幅备选图,你建议选择其中哪一幅?请结合画面内容,简1.校刊编辑部想为此栏目征集一段前言来介绍祖国大好河山,小河写了一段文字准备投稿，a要说明理由;(4分)里面有一些字词他拿不准,请你帮他判断。(共4分)-有hbPERS,民族意志、民族心理的形成外息相|关;其山之精神特征,已成为中华民族精神的重要标识沪泰山精神"包含“会潜绝项"的攀登意志“重如泰山"的价值取向、“不让土壤"的博大胸怀“捧晶is!paiSakereon前言中国地大物博,名山大川不胜枚举。从北国的长白山到南村的桂林山水,从西隆的天山山脉到东海岸边的雁荡山,每一处都有其独特的(A揭)味。我爱黄河的迁回曲折,我爱长江的奔流不息,我爱大渡河的波澜壮阔,我爱东后泰山的峰恋一COEME)RRBHHHM,HRI.|EfeWe,eeeeee(ZESTRBIM0)FAB每一座山峰都是一幅生动的画卷,每一道河流都是一段悠扬的乐章。让我们共赴这场美的盛袜,感受祖国河山之锦绣壮美,体会河山精神之源远流长。图(1)语段中的西个加点字应该怎么读?请写出正确的读音。(2分)|迁(AlWetNaehh(2)语段中两个槛线处应分别选用哪个字?EBERTGS.(254)AXAB]_，zieical5.校刊编辑部想探究山水给予中国古代文人的灵感和情思,请你将空缺的十诗文名句补充完2.校刊编辑部搜集了关于黄河的资料,请你阅读资料并根据提示,把思维导图上的信息补充完可人easHisto.中国文人流连钟情于山水,山水给予中国文人太多的灵感与情恩。《三峡}中的"DOD,隐天蔽日"是印道元对山峡壮阔的描绘,《答谢中书书》中的“夕日欲矣,@"是陶弘景笔下灵动的美景《野望)中的“@®"是王绩色勤的夕阳量染下秋意颇浓的山野之美《黄锥楼?中的“@)从雪山到海洋,黄河经历了一路惊险传奇。先是穿越山地峡谷,在忽宽忽窄的河道中穿行,急流之后她以放松的流消方式,造就出富饶的河套平原;随后她急转朝南,飞流直下,将黄土高原的泥沙衷据而去,于激流奔涌的坦口形成活洗瀑布,于两岸断崖绝壁间形成险要龙门;继而摇荡前行,过三门峡,长驱直入;横叶华北平原,将河道逐年抬高;形成世界著名的“地上ok©ae"SETSAHAS2K,CR)GE)PA"@EIT"HAEoyAGEDTD,APARTROGERAIShER—_@__"JEPDAPADEIASHESFa0!KARR.=.MESH($275)deapiewin.&BR:FRLwWRS@(一)阅读下文,完成6-9题。(共16分J那个乘着风雪而来的“陌生人”|过时所ID二吕布大站wee;7@O在我童年的记忆里;父亲是每到年关冬着风雪而来的“陌生人"。【版块三:长江篇】@@这个“陌生人"总会带回一口“宝箱"。打开箱子,里面塞满了好看的布料和我们平时从未见WK当天晚上,父亲把要上交给生产队买工分和口粮的3.校刊编辑部搜集了一段与长江有关的文字,放在了长江版块,但是中间有几句的顺序排版时过的糖果,当然,还有最最重要的东西WhiGr八年级上册Ae第1页闪8页wheeseyfASE-上册OAH第?页bow+sGC
+图片路径: extracted_images/1_语文周末作业_page2_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/1_语文周末作业_page2_img2_projection.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_9.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_9.png
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题2_page1_img2_projection.png
+图片路径: extracted_images/1_语文周末作业_page3_img2_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/1_语文周末作业_page3_img2_projection.png
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_8.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/鹤壁卷-期末教学质量调研测试_page2_img2_column_8.png
+图片路径: extracted_images/英语必刷卷 专题4_page1_img2_column_3.png 文本长度: 1405
+识别的文本内容:
+bestfriend.Therealchallenge(挑战)comeswhenyoumeetnewfriends.Smilemore,andusuallytheywillsmileback.Youmaybeginyourtalks13thisway.Asmileisagoodstart.Ifyouwanttomakeinterestingtalks,youshouldreadnewsonlinebecausetheremust14_somethingfunonline.Anotherwaytobecomemoreoutgoingistogoout.Thisis_15mostimportantstepofall.Gotoapark,beach,clubpartyorotherplaces,andyoumaymakenewfriendsthere.11.12.13.14.‘18.B第一节(话题:Unit5娱乐活动)阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺,意思完整。每空限填一词,每词限用一次。主题:人与社会一一文学,艺术与体育frommakewhyfamousshortpreparefindclosegroupdifferentChinabegantomakecartoonsinthe20thcentury.Herearethree__1cartoonsinChinesehistory.PrincessIronFanisthefirstChineseanimatedfeaturefilm.ItwasdirectedbytheWanBrothersinShanghaiin1941.Itis2thanthecartoonSnowWhiteandtheSevenDwarfs.Thestorycame__3___apopularChinesestory.BabyTadpolesLookforTheMotherisashortChinesecartoon.Ittellsabouttheadventures(冒险)ofa4”oftadpoles(34})lookingfortheirmother.ItisthefirstChineseinkanimationanditis__5__fromWesterncartoons.WhyIstheCrowBlack-CoatedisthefirstChinesecartoonincolor.ShanghaiAnimationFilmStudio6__itin1955S.Ittellsthestoryabout.7__thecrowwasblack.Whiletheotheranimalswere__8forthewinter,thecrowonlythoughtaboutshowingoffhisbeautifultail(尾巴).Whenthewintercame,thecrowwascoldandhomeless.Oneday,he94wildfireintheforest.Hecame_10_tothefiretokeepwarm.Unluckily,heburned(#243)histail.Thenhebecameablackcrow.1.2.3.4.5.6.re8.9.10.英语人年级LH@第2页共6页
+图片路径: extracted_images/英语必刷卷 专题4_page1_img2_column_2.png 文本长度: 1114
+识别的文本内容:
+lit5r:提分专练4语篇填空A第一节(话题:Unit6人生日标)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺意思完整。每空限填一词,每词限用一次。主题:人与自我一一学习与生活pilottalentwondertravelnearalthough=mindfuturemaybe_adviseI'mwritingthisinmyroom.It's_1midnight,butIcan’tsleep.Iam2__whatmylifewillbelikeintenyears!Everyday,myparentsaskme,“Whatdoyouwanttobewhenyougrowup?”Theproblemis;Idon’tknow!Mymomalwayslikesto3me,“Beadoctor!”Buttobeadoctor,youhavetostudyforalong,longtime,andthat’snotmyideaoffun.Mydadsays,“Bea__4__!”HeknowsI’mscaredofflying!AndIhavetobereallygoodatmath.5___Ilikemath,Tmnotgoodatit.Well,Idon’t6__beingarockstar.Youdon’thavetobeverysmart,atleastnotsmartinthingslikemathandscience.Iam____insinging.8oneday,Iwillbecomesuccessfulandfamous.Also,I’mgoingto9_allovertheworld.NowI’mgettingtired,soI’mgoingtobed.Icanthinkaboutmy10_inbed.IgetmybestideaswhenI’mlyingdown.Decisions,decisions,decisions!和2.3.4.5.6.7.8.9.10.第二节(话题:Unit3HAMA)阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。主题:人与社会一一社会服务与人际沟通Theoutgoingpeopleliketomeetlotsofpeopleandhavemorefuninlife.Beingoutgoingisnotashard11_youthink.Evenshypeoplecanbeoutgoing.Weknow__12_iseasytostartbecomingoutgoingwithyourRE八年级+H@第1页HOR
+图片路径: extracted_images/英语必刷卷 专题4_page1_img2_column_1.png 文本长度: 26
+识别的文本内容:
+WSOFLyEEMeFe$6taku(3ereeGy
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2_column_3.png 文本长度: 1298
+识别的文本内容:
+Nowadaysyoucanchoose__9manykindsofbirthdayinvitations.Youcanmakebirthdayinvitationsby_10__ifyouhavetime.Youcanalsodrawpicturestomakethebirthdayinvitationsmorebeautiful.12.3.__5.6.7.8.9.10.HoT(SM:Unit4环境)”阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。主题:人与自然一一家乡的自然环境WhenIwas8,1livedinafarawaymountainvillagewith11___grandparents.It’scalledAnle.It’sabout80kilometersawayfromthecityofXiangtaninHunan.Now,IliveinGuangzhouwithmyparents.ButIreallymisslivinginthevillage.ThereweremanythingsIcoulddothere.Ineverfeltbored.Insummer,Ilooked_12crabs(98%)inasmallriver.WhenImovedastone,acrabcameout.Ihelditspincers(#%)andthenputitinabucket.And_13autumn,]likedtogotoanearbyhill.Iclimbeduptreesandhelpedtopickchestnuts(板栗)formygrandparents.Ialsolikedthevillagers,astheywereveryhospitable(好客的).Therewas14oldmanlivingnearmyhome.Oneday,whenIpassedhishouseafterschool,hegavemesomebiscuits.Iwentinsidehishouseandfoundthathewasverypoor,15fewbelongings(物品)otherthanacow.Buthewasstillkindtome.Thisismyhometownwheremychildhoodmemoriesweremade.Imissitandmygrandparentsaswell.11.12.13.14.15.E第一节(话题:Unit8食物)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺意思完整。每空限填一词,每词限用一次。主题:人与自我一一饮食与健康SometimeschoosingwheretoeatinSuzhouissomethingofachallenge.Nomatterhowgoodthefoodtastesatachosenrestaurant,onemayalwayswonder,“Isthereanything1onthenext英语MER上册@第5页共6页
+图片路径: extracted_images/鹤壁卷-期末教学质量调研测试_page1_img2.png 文本长度: 2290
+识别的文本内容:
+AREEBRALZ.mapo$S看清题总后再仔细答题;ELGAR,KBE,考请字班级学号姓名Mit&EL®-全ili$75CC鹤壁市2023一2024学年上期期末教学质量调研测试>时间:100分钟“分数:120分一听力理解(20小题,每小题1分,共20分)STWHS段对话。每段对话后有选项中选出最佳答案。每段对话读两遍。()1.Howoftenshouldthewomantakethemedicine?一个小题,从题中所给的A.B、C三个A.Onceaday.B.Twiceaday.C.Threetimesaday.()2.WhydoesAlanlikeshoppingontheInternet?A.Becauseit’sinteresting.B.Becausethethingsonlinearebetter.C.Becausethethingsonlinearecheaper.()3.Whenwilltheconcertstart?A.At6:00p.m.B.At7:00p.m.C.At8:00p.m.()4.HowdoesDoralikeyogurt?A.Shelikesitalittle.B.Shelikesitverymuch.C.Shedoesn’tlikeit.()5.InwhichsubjectdidHenrygetanA?A.English.B.Geography.C.Math.第二节”听下面几段对话或独白。每段对话或独白后有几个小题,从题中所给的A.B、C=个选项中选出最佳答案。每段对话或独白读两遍。听下面一段对话,回答第6至第7两个小题。()6.WhydoesJillaskRickforhelp?A.Shedoesn’tknowthemeaningofaword.B.Shedoesn’tknowhowtobuyadictionaryonline.C.Shedoesn’tknowhowtousetheonlinedictionary.()7.WheremayJillandRickbe?A.AtJill’shome.听下面一段对话,回答第8至第9两个小题。()8.WhereisJohnnygoing?B.Intheclassroom.C.Ontheplayground.A.Totheconcert.B.Tothemuseum.C.Tothecinema.()9.WhatisJohnny’sdream?A.Hewantstobeasinger.B.Hewantstobeanactor.C.Hewantstobeaheadmaster.英语八年级上册@第1页共8页@-NFR:英语听下面一段独白,回答第10至第12三个小题。()10.WhatdoesJennyliketoeat?A.Biscuits,candyandapples.B.Strawberries,beefandfish.C.Chocolate,sugarandice-cream.()11.WhatwaswrongwithJennylastweek?A.Shehadatoothache.B.Shehadacancer.C.Shehadafever.()12.HowdidJennyfeelwhenthedoctortoldherthatmanyofherteethwerebad?A.Mad.B.Tired.C.Afraid.听下面一段对话,回答第13至第15三个小题。()13.What’stherelationshipbetweenthespeakers?A.Classmates.B.Doctorandnurse.C.Motherandson.()14.Howmuchmoneydidthegirlgetinherdream?A.Onethousanddollars.B.Onemilliondollars.C.Tenmilliondollars.()15.Whatwilltheboydoifhehassomuchmoney?A.Hewillgiveittothepoor.B.Hewillbuyahouseandacar.C.Hewilltravelaroundtheworld.第三节，”听下面一篇短文。按照你所听内容的先后顺序将下列图片排序。短文读两遍。16.17.18.19.20.二、\阅读理解(20小题,每小题2分,共40分)阅读下面四篇语言材料,然后按文后要求做题。AIt’sWorldEnvironmentDay!ThecitylibrarypreparessomesurprisesforyouonJuneSth.TellstoriesRaise(筹集)moneyYoucansharestoriesaboutscientistsortechnology(科技)forsavingtheenvironment.animalsindanger.ItsOKifyouarenotgoodattellingstories.Age:13—17yearsoldPlace:inthehallofthefirstfloorTime;8:00a.m.—9:30a.m.Age:over15yearsoldPlace:inRoom3ofthethirdfloor英语AFR上册@第2页HERYouarewelcometobevolunteers(志愿者)forthisactivity.Wewilluseallthemoneytohelp~@hE4国
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1_column_1.png 文本长度: 15
+识别的文本内容:
+班级学号姓名Mit&eeDu<
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题5_page1_img1_column_1.png
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2_column_2.png 文本长度: 1374
+识别的文本内容:
+__9___oneachphoto.Shehopedthosewouldhelpus10__thehappytime.te2.3.4.5.6.7.8.9.10.第二节(话题:Unit2业余生活)”阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。主题:人与自我一一生活方式“Earlytobedandearlytorisemakesamanhealthy,wealthyandwise.Thisisanoldsaying.Itmeansthatwehadbettergotobedearlyatnightandget_11__earlyinthemorning.Thisistrue.Weshouldhaveenoughsleep12_keephealthy.Childrenshouldhave13__leasteighthours’sleepeverynight.14_theydon’thaveenoughsleep,theywon’tstudywellatschool.Thebodyalsoneedsexercise.Walking,running,jumping,swimmingand_playinggames15__allgoodexercise.Exercisehelpstokeepthebodystrong.Italsohelpsthebloodtoflowinsidethebody.Theheadneedsblood,soexercisehelpsustothinkbetter.11.12.13.14.15.D第一节(话题:Unit9Kea)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺、意思完整。每空限填一词,每词限用一次。主题:人与社会一一文化体验youoldbecauseshopsendtimemeaningeverythingwaitfromBirthdaysareimportantineveryone'slife,especiallyforchildren.Forabout365dayschildren1__forthatimportantday.Onthatday,theywillbecomeoneyear2__thanbefore.Birthdaysarealsothebest3__tohaveapartywithyourfriendsandfamily.Tohavea4__andspecialbirthdayparty,youneedtopreparelotsofthings.Youneedtohaveenoughtimetoget__5___readyfortheparty.Youmaywantyourfriendstocometotheparty6__youwanttoshareyourhappinesswiththem.Thebestwayisto7___birthdayinvitationstothem.Birthdayinvitationswillmakethemrememberyourbirthday.Youcanbuybirthdayinvitationsin8__orontheInternet.专题4Bs英语八年级上册@第4页HOR
+图片路径: extracted_images/英语必刷卷 专题4_page1_img2.png 文本长度: 4021
+识别的文本内容:
+|poo==~==~~~-----~~-----=====----==-++--========LArnmw.Sekt学号班级SHLDROT二2.请看清题意后再仔细签是3.字迹要写清殷，类而要整{站提分专练4语篇填空A第一节(话题:Unit6人生日标)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺,意思完整。每空限填一词,每词限用一次。主题:人与自我一一学习与生活talentpilotwondertravelnearalthough=mindfuturemaybe_adviseI'mwritingthisinmyroom.It’s__1___midnight,butIcan’tsleep.Iam2__whatmylifewillbelikeintenyears!Everyday,myparentsaskme,“Whatdoyouwanttobewhenyougrowup?”Theproblemis;Idon’tknow!Mymomalwayslikesto3me,“Beadoctor!”Buttobeadoctor,youhavetostudyforalong,longtime,andthat’snotmyideaoffun.Mydadsays,“Bea__4__!”HeknowsI’mscaredofflying!AndIhavetobereallygoodatmath.5___Ilikemath,Tmnotgoodatit.Well,Idon’t6_verysmart,atleastnotsmartinthingslikemathandscience.Iamoneday,willbecomesuccessfulandallovertheworld.beingarockstar.Youdon’thavetobe__insinging,8famous.Also,I’mgoingto9_NowI’mgettingtired,soI’mgoingtobed.Icanthinkaboutmy10_inbed.IgetmybestideaswhenI’mlyingdown.Decisions,decisions,decisions!和2.3.4.5.6.7.8.9.10.第二节(医题:Unit3HAMA)阅读短文,根据语篇要求填空,使短文通顺,意思完整。每空限填一词。主题:人与社会一一社会服务与人际沟通Theoutgoingpeopleliketomeetlotsofpeopleandhavemorefuninlife.Beingoutgoingisnotashard_11_youthink.Evenshypeoplecanbeoutgoing.Weknow_12iseasytostartbecomingoutgoingwithyourRE八年级+H@第1页HORbestfriend.Therealchallenge(挑战)comeswhenyoumeetnewfriends.Smilemore,andusuallytheywillsmileback.Youmaybeginyourtalks13thisway.Asmileisagoodstart.Ifyouwanttomakeinterestingtalks,youshouldreadnewsonlinebecausetheremust14_somethingfunonline.Anotherwaytobecomemoreoutgoingistogoout.Thisis__15__mostimportantstepofall.Gotoapark,beach,club,partyorotherplaces,andyoumaymakenewfriendsthere.11,12.13.14.15.B第一节(话题:Unit5娱乐活动)阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺,意思完整。每空限填一词,每词限用一次。主题:人与社会一一文学,艺术与体育makeshortdifferentfamousgroupfromwhyclosepreparefindChinabegantomakecartoonsinthe20thcentury.Herearethree__1cartoonsinChinesehistory.PrincessIronFanisthefirstChineseanimatedfeaturefilm.ItwasdirectedbytheWanBrothersinShanghaiin1941.Itis2thanthecartoonSnowWhiteandtheSevenDwarfs.Thestorycame__3___apopularChinesestory.BabyTadpolesLookforTheMotherisashortChinesecartoon.Ittellsabouttheadventures(冒险)ofa4”oftadpoles(34})lookingfortheirmother.ItisthefirstChineseinkanimationanditis__5__fromWesterncartoons.WhyIstheCrowBlack-CoatedisthefirstChinesecartoonincolor.ShanghaiAnimationFilmStudio6___itin1955.Ittellsthestoryabout__7__thecrowwasblack.Whiletheotheranimalswere__8forthewinter,thecrowonlythoughtaboutshowingoffhisbeautifultail(尾巴).Whenthewintercame,thecrowwascoldandhomeless.Oneday,he_94wildfireintheforest.Hecame10_tothefiretokeepwarm.Unluckily,heburned(#4)histail.Thenhebecameablackcrow.1.2.3.4.5.6.re8.9.10.英语人年级LH@第2页共6页第二节(话题:Unit7未来的生活)阅读短文,根据语篇要求填空,使短文通顺意思完整。每空限填一词。主题:人与社会一一科学与技术Youmayseerobotsinsomemovies.Therobotsinthesemoviespeople.Inreallife,youcanseerobotseverywhere.Robotsareoftenused_12_homes,robotscanhelptocleanthewindowsandthefloor.Theycanarefaster,smarterandstronger_11dodangerousandboringjobsinfactories.Inpeople’stakemealsfromthekitchentothesickpeople’sroominAmericanhospitals.Theycanremembermapseasily13_theywon'tlostway.Somepeopleusearobottohelpthemgetbetterbecausetheycan’tmove.Andfinallytheycouldwalkaround_14a_normalman.Peoplewillimproverobots15_thedevelopmentofscienceyearafteryear.Scientistsareworkinghardtomakerobotswalkandjumplikehumans.11.12.13.14.15.C第一节(话题:Unit1RR)”阅读短文,从方框中选择适当的词并用其正确形式填空,使短文通顺、意思完整。每空限填一词,每词限用一次。主题:人与自我一一生活与学习onwetogetherreaddrivewordhaveticketrememberhappyMyfamilywentonatriplastSaturday.Wedidn’tspendmuchmoneybutreally1agoodtime.Inthemoming,myfather__2__ustoasciencecenterinourcity.Wedidn’tspendanymoneyonthe3_inthesciencecenter.MybrotherandIsawdifferentkindsofanimalsanddidsomeinterestingthings.Webothhadalotoffunplaying4__inthesciencecenter.Thenwewenttoaparknearthebecausethecenterwasfree.Thereisachildren’sareasciencecenterin5__car.Myparentsputupthetentfirst,andthenwehadapicnic6___.Afterthepicnic,myfatherstartedto7___newspapersandmymotherplayedgameswithme.Intheafternoonwegotbackhome.Itumed8thecomputerandcopiedallthephotoswetook.Mymotherevenwrotesome英语八年级1H@第3页HOR专题4E
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1_column_3.png 文本长度: 1016
+识别的文本内容:
+C(say,otto/s9)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Hello!ThisisJennyspeaking.MayIspeaktoMary?B:1.5A;Well,tomorrowisSaturday,2.?B:Idon’thaveaplan.Wherecanwego?A:3.?Ihavethreeticketsthere.B:Yes,IknowtheWhiteBeach,IThearthatit’sverybeautiful.Ireallywanttogotherewithyou.A:Great.Let’sgotheretomorrow!B:4.?A:Lebsmeetatthebusstation.B:OK.Canwemeetthereat8,00a.m.?BecauseIhavetopreparebreakfast.A:Yes,noproblem.Seeyoutomorrow.B:5.D(话题:度假经历)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Hi,Sally.Doyouliketravelingaroundtheworld?B:Yes,Ido.Iliketravelingtodifferentplaces.A:Wheredidyougoonvacation?B:1.-Youknow,BeijingisoneofthemostfamouscitiesinChina.A:Yeah,BeijingisthecapitalofChina.2.?B:Yes,Idid.IwenttotheGreatWallwithsomeChinesefriends.A:Whatdoyouthinkofit?B:3..AsfarasIknow,therearenootherman-madeobjectsasbigasit.Itisthelongestwallintheworld.A:Wow,that’samazing!4.?B;Everythingtastedreallygood!ThereislotsofdeliciousfoodinBeijing.AndIboughtsomeBeijingduckformyparents.A;5.seTFB:Yes.Everyonehadagoodtimethere,英语人年级FP8第2页共3页
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1_column_2.png 文本长度: 1029
+识别的文本内容:
+eeeeceeseldeieiedeile.calcein.suebeiaiaichal,eisaiohanaihe3全二从年级二英语提分专练5补全对话:Re~eeeeeeeeA($M:ARMA)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯.完整。A:Hello,Tom!Youlooksowellthesedays.B:Thanks.Ioftenplaybasketballafterschool.A;1.?B:Oh,no.Idon’twanttobeabasketballplayer.Youknow,Iwasnotingoodhealthbefore.2.A:Youareright.Tokeephealthyisthemostimportant.3.?B:IwanttobeamathteacherwhenIgrowup.It’smydreamjob.A:Isee.Howareyougoingtodothat?B,4.A:Oh,you'regreat.Bytheway,therewillbeamovietonight.Canyougowithme?B;Sure.Ilikewatchingmovies.5.2A:Athalfpastseven.OK?B:OK.Seeyouthen.B(6M:2444)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Hi,Mary.Doyouexerciseinyourfreetime?B:1..Ilikedoingexerciseverymuch.A:What’syourfavoriteexercise?B:Ilikerunningbest.|oftenplaytennis,too.A:2.?B:Ioftenrunbeforebreakfasteveryday.A:3.?B:Iplaytennisfourtimesaweek.A:Howlongdoyouusuallyplayiteachtime?B:4..Whataboutyou?A:Oh,Ihardlyeverplayedanysportstwoyearsago.Ididn’tlikedoingexercise.ButnowIusuallywalktoschoolwithmyfriends.B:Tmgladtohearthat.5.A:You'reright.英语MERFH@第1页HIR
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2_column_1.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题4_page2_img2_column_1.png
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2_column_5.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题4_page2_img2_column_5.png
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1_projection.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题5_page1_img1_projection.png
+图片路径: extracted_images/英语必刷卷 专题4_page2_img2_column_4.png 文本长度: 1606
+识别的文本内容:
+street?”However,I’vefoundtheanswertothisquestion.If’'maskedtonamemyfavoriteplacetoeatinSuzhou,Iwill2_rightaway,“SongHeLouRestaurant”.WhyisSongHeLousospecialamonghundreds3__restaurants?Well,forme4comesdowntoaperfectbalanceofdeliciousfood,pleasantatmosphere(氛围)and__S___near-perfectplace.BeforecomingtoSuzhou,Iwastoldbymyfriendsfromother__6_inChinathatthefoodcouldbetoosweet.ForthefirstfewmonthsI7__toeatinSichuanorHunanstylerestaurantsinsteadofeatingmuchlocalfood.However,after8__inlovewiththecity,Icametorealizethatthefoodissocloselyconnectedwithitslocalculture.SoIaskedalocalfriendtorecommend(推荐)thebestplaceto9__reallocalstylefood.ShecameupwiththesuggestionofSongHeLou.Forafirst-timevisitor,“SongShuGuiYu”and“XieFenTofu”areexcellentchoices.Suzhouhasnowbecomemyhome_10__Ihavealifetimetoenjoyeachandeverydishonthemenu.1.2;3:4.5:6.78.9.10.57(AC:Unit10AR)”阅读短文,根据语篇要求填空,使短文通顺意思完整。每空限填一词。主题:人与自我一一处理问题的方法和建议TodayDavehasaproblem.Hewasnothappy.ActuallyDavewasupsettoday.Hekeptthinkingaboutthemistakehemadeinthesoccergame.Becausehewascareless,histeamlostthegame_11_theend.Dave’smotherwasanunderstandingwoman.12Davearrivedhome,shesawthathewassad.Aftersheknewthewholestory,shetoldhersonwinning_13_losingwasnotimportant.SheadvisedDavetotalktohisteammates(队友).Sheaddedthatthemostimportantthingwastosupport(支持)eachotherintheteam.WhathismothersaidmadeDavethinkalot.Heknewheshouldn'tbeangry14_himself.Heshouldtryhisbesttosolvehisproblems.Atlasthetookhismother’sadvice.Heapologized(if#)tohisteammatesforhismistakes.15hissurprise,histeammatesstilltrustedhim.Theyallhugged(拥抱)him.Davewasmoved.11.12.13.14.15.英语八年级上册@第6页HOR
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1_column_5.png 文本长度: 0
+识别的文本内容:
+
+检测到文字内容过少,已删除图片: extracted_images/英语必刷卷 专题5_page1_img1_column_5.png
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1.png 文本长度: 2963
+识别的文本内容:
+学号班级姓名Mit&ee=ieeeeeSeeeeeeEeoess2=提分专练5HOMEA(话题:未来规划)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯.完整。A:Hello,Tom!Youlooksowellthesedays.B:Thanks.Ioftenplaybasketballafterschool.A:1.?B:Oh,no.Idon’twanttobeabasketballplayer.Youknow,Iwasnotingoodhealthbefore.2.A:Youareright.Tokeephealthyisthemostimportant.3.?B:IwanttobeamathteacherwhenIgrowup.It’smydreamjob.A:Isee.Howareyougoingtodothat?B,4.,A:Oh,you'regreat.Bytheway,therewillbeamovietonight.Canyougowithme?B;Sure.Ilikewatchingmovies.5.2A:Athalfpastseven.OK?B:OK.Seeyouthen.B(6M:2444)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Hi,Mary.Doyouexerciseinyourfreetime?B:1.much..IlikedoingexerciseveryA:What’syourfavoriteexercise?B:Ilikerunningbest.|oftenplaytennis,too.A:2.?B:Ioftenrunbeforebreakfasteveryday.A:3.?B:Iplaytennisfourtimesaweek.A:Howlongdoyouusuallyplayiteachtime?B:4..Whataboutyou?A:Oh,Ihardlyeverplayedanysportstwoyearsago.Ididn’tlikedoingexercise.ButnowIusuallywalktoschoolwithmyfriends.B:Tmgladtohearthat.5.A:You’reright.英语MERFH@第1页HIRC(say,otto/s9)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯.完整。A:Hello!ThisisJennyspeaking.MayIspeaktoMary?B:1.:A:Well,tomorrowisSaturday,2.?B:Idon’thaveaplan.Wherecanwego?A:3.?Ihavethreeticketsthere.B:Yes,IknowtheWhiteBeach,IThearthatit’sverybeautiful.Ireallywanttogotherewithyou.A:Great.Let’sgotheretomorrow!B44.0?A;Let’smeetatthebusstation.B:OK.Canwemeetthereat8,00a.m.?BecauseIhavetopreparebreakfast.A:Yes,noproblem.Seeyoutomorrow.B:5.D(话题:度假经历)根据下面的对话情最,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Hi,Sally.Doyouliketravelingaroundtheworld?B:Yes,Ido.Iliketravelingtodifferentplaces.A:Wheredidyougoonvacation?B:1.themostfamouscitiesinChina.A:Yeah,BeijingisthecapitalofChina.2.?-Youknow,BeijingisoneofB:Yes,Idid.IwenttotheGreatWallwithsomeChinesefriends.A:Whatdoyouthinkofit?B:3.otherman-madeobjectsasbigasit.Itisthelongestwallintheworld.A:Wow,that’samazing!4.?B;Everythingtastedreallygood!ThereislotsofdeliciousfoodinBeijing.AndIboughtsomeBeijingduckformyparents..AsfarasIknow,therearenoAS.，B:Yes.Everyonehadagoodtimethere,英语F820第2页共3页E(话题:食物制作)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Howtimeflies!Thesummervacationisalreadyover.B:Yes,that’sright.Didyoulearnanythinginterestingduringyourvacation?A:1.(小吃)bymyself.B:2.2.]learnedhowtomakesnacksA;Sandwiches.Ilovesandwiches.B:Thatsoundsgreat.3.?A;Sure,noproblem.TodayI'dliketoteachyoutomakeaham(腿)sandwich.B:OK.Isitdifficulttomakeit?A:Oh,no.4..First,getapieceofbread.Thenputsomemayonnaise(2#4#)onit.Next,putsomeham,lettuceandtomatoesonit.B:Jsthatall?A:No.Afterthat,putanotherpieceofbreadontopofit.Nowasandwichisready!B:]see.5..FE(话题:课外活动)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯.完整。A:Hi,Nick.Areyoufreenextweek?Letsgoshoppingtogether.B:Hmm...1.A:Really?Whatareyougoingtodonextweek?B;2..SoIhavenotimetogowithyou.A;3.?B:Ihavesoccerlessonsthreetimesaweekandbasketballlessonstwiceaweek.A:Wow!4.9B;BecausemyparentsexpectmetogetbettergradesinP.E.But’'msotiredtotakethesesportslessons.A:Comeon!Parentsalwayswantthebestforus.5.B;1thinkyouaremght.英语AFR上册@第3页HIRKft专题$il
+图片路径: extracted_images/英语必刷卷 专题2_page1_img2.png 文本长度: 4793
+识别的文本内容:
+提分专练2任务型阅读=~ee0e00000A(话题:Unit10AR)主题:人与自我一一处理问题的方法和建议Ifyouhavesomeproblems,whatwillyoudo?Willyouaskyourparents,yourteachersoryourfriendsforhelp?__1__Herearesomegoodsuggestions(建议)foryou.Asksomeoneforhelp.You’dbettertellothersaboutyourbadfeelings.Rememberthatmanypeoplewilllovetohelpyou.Don’tbehardonyourself.Whenyouhaveproblems,findsomeoneyoutrustandaskhimorherforhelp.Dosomethingrelaxing.2Speakingoutyourfeelingsloudlyisagoodway.Forexample,whenyoufeelangry,youcansay“Iamsoangry!”loudly.Afterthat,youmayfeelrelaxed.Youcanalsotakesomeexercise,listentomusic,keepadiary,playwithapet,goforawalkandsoon.3Becalm(平静的).Whenyouhaveproblems,youshouldlearntobecalm.Don’tbenervous._4_Don’tmushtomakedecisions.Youshouldtrytounderstandmoreaboutyourproblemswiththehelpofothers.Thenyoucanfindgoodwaystodealwiththem.__5__Ifyousmileatyourselfandkeepagoodmood,youmayfindtheproblemsarebecomingsmallerandsmaller.Thismeansthatyouareabletosolvetheproblemsmorequickly.So,dearfriends,ifyouhaveproblems,doasItoldyou.Everythingwillbefine.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Youcandosomethingtomakeyourselffeelrelaxed.B.Don’tbeafraidoftheproblems.C.What’smore,smilingalwayshelpsalot.D.Doyouknowhowtodealwithyourproblemsinarightway?E.Thesethingscanhelpyougetabetterfeeling.1.2.3.4.5.B(话题;:Unit7未来的生活)主题:人与社会一一科学与技术Peoplearelivinglongerandlongernow.That’sgoodnews.However,gettingoldcanbringalotofproblems.6_Whentherearemanyelderlypeopleinsociety,findingcareisdifficult.Therearen’tenoughpeopletodothisjob.专题2算~英语MERLH@第1页共3页Today,technologyishelpinguswiththisproblem.NewrobotscangiveelderlypeopleallkindsofCare,Thesimplestcarerobotsarelikepets,7Theybringrealjoytoelderlypeople,andnoonehastofeedthem.SomecarerobotsuseAl.TheycanhelpelderlypeoplewithTheymakevideocallstofamily.Also,iftherobot’sownerisintrouble,therobotwillcallsomeoneforhelp.Othercarerobotsdophysicaljobs.9usetheserobotsnow.Thepeopletherelikethemalot.manythings.8JapanesehospitalsManyoftheserobotsdon’tjusthelpelderlypeopledothings.Theyalsohelpthemfeelusefulandindependent(2x7ff)).Somecompaniesmaketheirrobotslookweak.10Thatway,peoplewillcarefortherobotswhiletherobotscareforthem.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Therobotstellpeopletotakemedicine,doexerciseandseethedoctor.B.Manypeoplegetsickandneedcare.C.Theylookliketheyneedcare.D.Theypickthingsup,helppeoplewalk,andleadgroupsindances.E.Whenyoutouchthem,theywillmoveormakeanimalsounds.6.7.8.9.10.C(话题:Unit9&#4)主题:人与社会一一文化习俗Withtheholidayscomingup,lotsofpeoplewillbehavingparties.Wanttomakesureyouareagoodhost/hostessorguest?__11@Wheninvitinggueststoyourparty,sendinvitationstotheirhomesinsteadofhandingthemoutatschool.12_@Waitforallyourgueststoarrivebeforestartinganyactivities.Ifpeopleatthepartydon’tknoweachother,makesureyouintroduceeveryone.@13youcardtoeachguest,tellingthemhowmuchyouliketheirgifts.Aftertheparty,besuretosendahandwrittenthank-@Whenyoureceiveaninvitationtoaparty,besuretoletthehost/hostessknowifyoucancome.@Arriveontime.Bringagifttoabirthdayparty.14Adultsoftenbringsomedessertorabottleofwinetoaparty,evenifthehost/hostesstellsthemthathe/shedoesn’tneedanything.Youngpeopledon’thavetodothis,butitsalwayspolitetoask.@Befriendlytotheotherguests.Remembertosay“Please”and“Thankyou"!15英语AFR上册@第2页共3页根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Whenyouleave,thankthehost/hostessfortheparty.B.Ifit’saholidayparty,askthehost/hostessifthere’ssomethingyoucanbring.C.Inthisway,youwon’thurtthefeelingsoftheclassmatesyoudon’tinvite.D.Hereissomegoodadvice.E.Ifyourguestsbringgiftsforyou,thankeachonewhenyouopentheirgifts.W122.3.14.15D(#4:Unit4你居住的城镇)主题:人与社会一一家乡和社会的变迁Shibanyan,abeautifultowninHenanprovince,isapopularplaceforartlovers.Everysummer,artstudentsfromalloverthecountrycomeheretopracticepainting.Thetownsitsinthehillsandforests.16Theyareusedtotheold-fashionedwayoflife,gettingupwiththechickenstodofarmworkandgoingtobedsoonaftersunset.ShibanyanleansontheTaihangGrandCanyon(倚靠太行大峡谷),soit’seasytogetrockshere.17Inrecentyears,therockhouseshavebecomethetown’smainfeature.Andmanyvisitorscomeheretotakealookatthespecialhouses._18Asaresult,somelocalslefttheirhomestofindjobsinotherplaces.However,thingsbegantochangeinthe1990s.Atthattime,agroupofteachersandstudentsfromartschoolsfoundthisbeautifultownandmadeitabaseforpainting.19AndthetownisstillworkinghardtobuilditselfintoChina’s“paintingvalley”.Shibanyanhasbecomeaplacefortouriststobetterunderstandthenaturallifestyleaswell.ThemaintouristseasonhereisusuallyfromApriltoOctober.20_Moreover,theycanpickfreshfruitandmakedeliciousfruitcakes.根据材料内容,从下面五个选项中选出能填人文中空缺处的最佳选项,使文章意思通顺内容完整。A.Infact,Shibanyanusedtobeapoortown.B.Thelocalpeoplebuilttheirhouseswiththerocks.C.Now,thereare141paintingbasesinShibanyan.D.Therearelessthan10,000peoplelivinginthetown.E.Touristscantryplantingvegetablesduringtheirstay.16.17.18.19.20.英语AFR上册@第3页共3页人=
+图片路径: extracted_images/英语必刷卷 专题5_page1_img1_column_4.png 文本长度: 964
+识别的文本内容:
+E(话题:食物制作)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯完整。A:Howtimeflies!Thesummervacationisalreadyover.B:Yes,that’sright.Didyoulearnanythinginterestingduringyourvacation?A:1..]learnedhowtomakesnacks(小吃)bymyself.B:2.2A;Sandwiches.Ilovesandwiches.B:Thatsoundsgreat.3.?A;Sure,noproblem.TodayI'dliketoteachyoutomakeaham(腿)sandwich.B:OK.Isitdifficulttomakeit?A:Oh,no.4..First,getapieceofbread.Thenputsomemayonnaise(2#4#)onit.Next,putsomeham,lettuceandtomatoesonit.B:Jsthatall?A:No.Afterthat,putanotherpieceofbreadontopofit.Nowasandwichisready!B;Isee.5..FE(话题:课外活动)根据下面的对话情景,在每个空白处填上一个适当的句子，使对话的意思连贯.完整。A:Hi,Nick.Areyoufreenextweek?Let’sgoshoppingtogether.B:Hmm...1.A;Really?Whatareyougoingtodonextweek?B;2..SoIhavenotimetogowithyou.A;3.?B:Ihavesoccerlessonsthreetimesaweekandbasketballlessonstwiceaweek.A:Wow!4.2B;BecausemyparentsexpectmetogetbettergradesinP.E.ButTmsotiredtotakethesesportslessons.A:Comeon!Parentsalwayswantthebestforus.5.B;Ithinkyouarenght.A英语AFR上册@第3页HIRK=~!专题
+measimov@measimovs-Mac-mini pdf2a4 % 
