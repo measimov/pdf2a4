@@ -1,7 +1,6 @@
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 from PIL import Image
-import os
 
 def images_to_pdf(image_paths, output_pdf):
     # A4 页面宽高（点）
@@ -35,9 +34,3 @@ def images_to_pdf(image_paths, output_pdf):
     # 保存 PDF
     c.save()
     print(f"PDF 文件已生成：{output_pdf}")
-
-# 示例调用
-image_folder = "extracted_images"  # 拆分图片的文件夹
-image_files = [os.path.join(image_folder, f) for f in sorted(os.listdir(image_folder)) if f.endswith(".png") or f.endswith(".jpg")]
-output_pdf = "output.pdf"
-images_to_pdf(image_files, output_pdf)

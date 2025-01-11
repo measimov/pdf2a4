@@ -2,15 +2,11 @@ import fitz  # PyMuPDF
 import os
 from pathlib import Path
 
-def extract_images_from_pdf(pdf_path):
+def extract_images_from_pdf(pdf_path, output_dir):
     try:
         # 确保PDF文件存在
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"PDF文件未找到: {pdf_path}")
-
-        # 创建输出目录
-        output_dir = Path("extracted_images")
-        output_dir.mkdir(exist_ok=True)
 
         # 打开PDF文件
         doc = fitz.open(pdf_path)
