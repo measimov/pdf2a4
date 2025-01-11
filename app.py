@@ -15,6 +15,7 @@ app.config['PROCESSED_FOLDER'] = PROCESSED_FOLDER
 # 确保上传和处理后的文件夹存在
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
+os.makedirs('static/js', exist_ok=True)
 
 @app.route('/')
 def index():
