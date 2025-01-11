@@ -5,5 +5,5 @@ services:
     ports:
       - "5000:5000"
     volumes:
-      - ./uploads:/app/uploads
-      - ./processed:/app/processed 
+      - ./src/backend/uploads:/app/uploads
+      - ./src/backend/processed:/app/processed 

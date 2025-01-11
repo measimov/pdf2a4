@@ -12,8 +12,8 @@ RUN apt-get update && apt-get install -y \
 # 设置工作目录
 WORKDIR /app
 
-# 复制当前目录内容到/app
-COPY . /app
+# 复制后端代码到容器中
+COPY src/backend /app
 
 # 安装依赖
 RUN pip install --no-cache-dir -r requirements.txt
@@ -22,4 +22,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 5000
 
 # 运行Flask应用
-CMD ["python", "app.py"] 
+CMD ["python", "app.py"]
