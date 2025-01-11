@@ -1,4 +1,4 @@
-from flask import Flask, request, send_from_directory, jsonify
+from flask import Flask, request, send_from_directory, jsonify, render_template
 from werkzeug.utils import secure_filename
 import os
 from main import process_single_pdf  # 假设你的主处理函数在main.py中
@@ -12,6 +12,10 @@ app.config['PROCESSED_FOLDER'] = PROCESSED_FOLDER
 # 确保上传和处理后的文件夹存在
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
+
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
