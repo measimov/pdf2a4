@@ -6,3 +6,4 @@ pytesseract==0.3.10
 opencv-python-headless==4.8.0.74
 numpy<2.0.0 
 APScheduler==3.10.1
+flask-cors==3.0.10

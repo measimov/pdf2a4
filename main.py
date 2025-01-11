@@ -6,11 +6,15 @@ from pathlib import Path
 import os
 import shutil
 import urllib.parse
+from datetime import datetime
 
 def process_single_pdf(pdf_path, processed_folder):
-    # 对文件名进行URL编码
-    pdf_name = urllib.parse.quote(Path(pdf_path).stem)
-    work_dir = Path(f"work_{pdf_name}")
+    # 获取原始文件名（不含扩展名和时间戳）
+    original_name = Path(pdf_path).stem.rsplit('_', 1)[0]
+    # 解码文件名
+    original_name = urllib.parse.unquote(original_name)
+    
+    work_dir = Path(f"work_{original_name}")
     work_dir.mkdir(exist_ok=True)
     
     # 创建原始图片和分割后图片的目录
@@ -39,8 +43,7 @@ def process_single_pdf(pdf_path, processed_folder):
         input_path = split_images_dir / image_file
         image_ocr.check_text_content(input_path)
     
-    # 5. 生成PDF并保存到PROCESSED_FOLDER
-    output_pdf = Path(processed_folder) / f"{pdf_name}_processed.pdf"
+    output_pdf = Path(processed_folder) / f"{original_name}_处理完成.pdf"
     image_files = sorted([f for f in os.listdir(split_images_dir) if f.endswith(('.png', '.jpg', '.jpeg'))])
     image_paths = [str(split_images_dir / f) for f in image_files]
     produce_pdf.images_to_pdf(image_paths, str(output_pdf))

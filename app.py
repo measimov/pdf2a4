@@ -5,8 +5,12 @@ from main import process_single_pdf  # 假设你的主处理函数在main.py中
 import shutil
 from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime, timedelta
+import urllib.parse
+from flask_cors import CORS
+import re
 
 app = Flask(__name__)
+CORS(app)
 UPLOAD_FOLDER = 'uploads'
 PROCESSED_FOLDER = 'processed'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -16,6 +20,25 @@ app.config['PROCESSED_FOLDER'] = PROCESSED_FOLDER
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
 os.makedirs('static/js', exist_ok=True)
+
+def secure_chinese_filename(filename):
+    """安全的文件名处理，保留中文字符"""
+    # 分离文件名和扩展名
+    name, ext = os.path.splitext(filename)
+    
+    # 只保留中文、英文、数字和一些基本符号
+    allowed_chars = re.compile(r'[^\u4e00-\u9fa5a-zA-Z0-9-_.]')
+    clean_name = allowed_chars.sub('', name)
+    
+    # 处理文件名为空的情况
+    if not clean_name:
+        clean_name = 'unnamed'
+        
+    # 限制文件名长度
+    if len(clean_name) > 200:
+        clean_name = clean_name[:200]
+        
+    return clean_name + ext
 
 @app.route('/')
 def index():
@@ -29,21 +52,44 @@ def upload_file():
     if file.filename == '':
         return jsonify({'error': 'No selected file'}), 400
     if file:
-        # 使用UNIX时间戳作为文件名
-        import time
-        timestamp = str(int(time.time()))
-        filename = f"{timestamp}.pdf"
-        file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-        file.save(file_path)
-        print(f"文件已保存到: {file_path}")
-        processed_pdf = process_single_pdf(file_path, app.config['PROCESSED_FOLDER'])
-        processed_filename = os.path.basename(processed_pdf)
-        print(f"处理后的文件已保存到: {processed_filename}")
-        return jsonify({'processed_file': processed_filename}), 200
+        try:
+            # 获取原始文件名并解码
+            original_filename = urllib.parse.unquote(file.filename)
+            if isinstance(original_filename, bytes):
+                original_filename = original_filename.decode('utf-8')
+            
+            # 使用安全的文件名处理函数
+            safe_filename = secure_chinese_filename(original_filename)
+            
+            # 移除扩展名
+            original_name = os.path.splitext(safe_filename)[0]
+            
+            # 修改时间戳格式，使文件名更简洁
+            timestamp = (datetime.now() + timedelta(hours=8)).strftime('%m%d_%H%M')
+            filename = f"{original_name}_{timestamp}.pdf"
+            
+            file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+            file.save(file_path)
+            
+            processed_pdf = process_single_pdf(file_path, app.config['PROCESSED_FOLDER'])
+            processed_filename = os.path.basename(processed_pdf)
+            
+            return jsonify({'processed_file': processed_filename}), 200
+            
+        except Exception as e:
+            print(f"处理文件时出错: {str(e)}")
+            return jsonify({'error': f'处理文件时出错: {str(e)}'}), 500
 
-@app.route('/download/<filename>', methods=['GET'])
+@app.route('/download/<filename>')
 def download_file(filename):
-    return send_from_directory(app.config['PROCESSED_FOLDER'], filename)
+    # 解码文件名
+    decoded_filename = urllib.parse.unquote(filename)
+    return send_from_directory(
+        app.config['PROCESSED_FOLDER'], 
+        decoded_filename,
+        as_attachment=True,
+        download_name=decoded_filename
+    )
 
 @app.route('/cleanup', methods=['POST'])
 def cleanup():

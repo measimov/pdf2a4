@@ -105,6 +105,116 @@
         .file-action:hover {
             text-decoration: underline;
         }
+        
+        .instructions {
+            margin: 30px auto;
+            padding: 25px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            max-width: 800px;
+        }
+        
+        .instructions h3 {
+            color: #4a90e2;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+        }
+        
+        .instructions ol {
+            padding-left: 25px;
+        }
+        
+        .instructions li {
+            margin-bottom: 12px;
+            line-height: 1.6;
+            color: #444;
+        }
+        
+        .notice {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-left: 4px solid #ffd700;
+            border-radius: 4px;
+        }
+        
+        .notice h4 {
+            color: #e6a23c;
+            margin-bottom: 10px;
+        }
+        
+        .notice ul {
+            padding-left: 20px;
+            margin: 0;
+        }
+        
+        .notice li {
+            color: #666;
+            font-size: 0.95em;
+        }
+        
+        button[type="submit"] {
+            background-color: #4a90e2;
+            color: white;
+            padding: 10px 25px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        
+        button[type="submit"]:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        
+        .file-list-container {
+            margin-top: 30px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        
+        #status {
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+            animation: pulse 2s infinite;
+        }
+        
+        #status p {
+            color: #856404;
+            font-size: 18px;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        #status p::before {
+            content: "";
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            border: 3px solid #856404;
+            border-radius: 50%;
+            border-top-color: transparent;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
@@ -114,18 +224,40 @@
             <label for="fileInput">选择文件</label>
             <input type="file" name="file" id="fileInput" accept=".pdf" required>
             <div id="fileName">未选择文件</div>
-            <button type="submit">上传</button>
+            <button type="submit" id="uploadButton" disabled>上传</button>
         </form>
+        
+        <div class="instructions">
+            <h3>使用说明</h3>
+            <ol>
+                <li>点击"选择文件"按钮，从您的电脑中选择需要处理的PDF文件（支持试卷、作业等文档）</li>
+                <li>选择文件后，文件名会显示在下方，确认无误后点击"上传"按钮</li>
+                <li>文件上传后会自动开始处理，请耐心等待处理完成</li>
+                <li>处理完成后，系统会自动显示"下载处理后的文件"链接</li>
+                <li>点击下载链接即可获取处理好的PDF文件</li>
+                <li>如需清理已处理的文件，可点击下方的"清理文件"按钮</li>
+            </ol>
+            
+            <div class="notice">
+                <h4>注意事项：</h4>
+                <ul>
+                    <li>仅支持PDF格式的文件</li>
+                    <li>建议文件大小不超过20MB</li>
+                    <li>处理后的文件将在24小时后自动清理</li>
+                    <li>请确保上传的文件内容清晰可辨</li>
+                </ul>
+            </div>
+        </div>
+        
         <div id="status" class="hidden">
-            <p>文件正在处理中...</p>
+            <p><span class="status-icon"></span>正在处理您的文件，请稍候...</p>
         </div>
         <div id="download" class="hidden">
             <a id="downloadLink" href="#" download>下载处理后的 PDF</a>
         </div>
-        <button id="cleanupBtn" type="button" style="margin-top: 20px; background-color: #e74c3c;">
-            清理文件
-        </button>
-        <div id="fileList" class="hidden">
+        <button id="cleanupBtn" type="button">清理文件</button>
+        
+        <div id="fileList" class="hidden" class="file-list-container">
             <h2>已处理文件列表</h2>
             <table id="filesTable">
                 <thead>
