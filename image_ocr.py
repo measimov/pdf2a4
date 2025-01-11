@@ -45,14 +45,15 @@ def delete_watermark_images_and_correct_orientation(image_dir):
         
 def check_text_content(image_path):
     image = Image.open(image_path)
-    # 重新OCR识别文字内容
-    text = pytesseract.image_to_string(image, lang='eng+chi_sim')
-    # 移除所有空格和换行符
-    text = text.replace(" ", "").replace("\n", "")
-    print(f"图片路径: {image_path} 文本长度: {len(text)}")
+    # # 重新OCR识别文字内容
+    # text = pytesseract.image_to_string(image, lang='eng+chi_sim')
+    # # 移除所有空格和换行符
+    # text = text.replace(" ", "").replace("\n", "")
+    # print(f"图片路径: {image_path} 文本长度: {len(text)}")
     aspect_ratio = image.height / image.width
     print(f"长宽比: {aspect_ratio:.2f}")
     # 统计字符数量
-    if len(text) < 20 or aspect_ratio > 10:
+    # if len(text) < 20 or aspect_ratio > 10:
+    if aspect_ratio > 10:
         os.remove(image_path)
         print(f"检测到文字内容过少或者长宽比过大,已删除图片: {image_path}")
