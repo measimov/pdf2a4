@@ -1,9 +1,19 @@
-version: '3'
+version: '3.8'
 services:
   pdf_processor:
     build: .
     ports:
       - "5000:5000"
     volumes:
-      - ./src/backend/uploads:/app/uploads
-      - ./src/backend/processed:/app/processed 
+      - type: bind
+        source: ./src/backend/uploads
+        target: /app/uploads
+      - type: bind
+        source: ./src/backend/processed
+        target: /app/processed
+      - type: bind
+        source: ./src/backend/logs
+        target: /app/logs
+    environment:
+      - FLASK_DEBUG=1
+    restart: unless-stopped 

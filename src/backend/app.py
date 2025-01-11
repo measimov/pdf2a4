@@ -8,8 +8,36 @@ from datetime import datetime, timedelta
 import urllib.parse
 from flask_cors import CORS
 import re
+import logging
+from logging.handlers import RotatingFileHandler
 
-app = Flask(__name__)
+# 配置日志
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger('pdf_processor')
+logger.setLevel(logging.INFO)
+
+# 创建日志目录
+os.makedirs('logs', exist_ok=True)
+
+# 创建文件处理器
+file_handler = RotatingFileHandler(
+    'logs/app.log',
+    maxBytes=1024 * 1024,  # 1MB
+    backupCount=10,
+    encoding='utf-8'
+)
+
+# 设置日志格式
+formatter = logging.Formatter(
+    '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+
+app = Flask(__name__, 
+    static_folder='static_frontend',
+    static_url_path='/'
+)
 CORS(app)
 UPLOAD_FOLDER = 'uploads'
 PROCESSED_FOLDER = 'processed'
@@ -19,7 +47,6 @@ app.config['PROCESSED_FOLDER'] = PROCESSED_FOLDER
 # 确保上传和处理后的文件夹存在
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(PROCESSED_FOLDER, exist_ok=True)
-os.makedirs('static/js', exist_ok=True)
 
 def secure_chinese_filename(filename):
     """安全的文件名处理，保留中文字符"""
@@ -40,45 +67,60 @@ def secure_chinese_filename(filename):
         
     return clean_name + ext
 
-@app.route('/')
-def index():
-    return render_template('index.html')
+# 在每个请求之前记录请求信息
+@app.before_request
+def log_request_info():
+    logger.info('Headers: %s', dict(request.headers))
+    logger.info('Path: %s', request.path)
+    logger.info('Method: %s', request.method)
+
+# 修改错误处理
+@app.errorhandler(Exception)
+def handle_exception(e):
+    logger.error('未处理的异常: %s', str(e), exc_info=True)
+    return jsonify({'error': str(e)}), 500
+
+# 静态文件路由
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def serve(path):
+    if path and os.path.exists(os.path.join(app.static_folder, path)):
+        return send_from_directory(app.static_folder, path)
+    return send_from_directory(app.static_folder, 'index.html')
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'file' not in request.files:
-        return jsonify({'error': 'No file part'}), 400
+        logger.error('没有文件部分')
+        return jsonify({'error': '没有文件部分'}), 400
+    
     file = request.files['file']
     if file.filename == '':
-        return jsonify({'error': 'No selected file'}), 400
+        logger.error('没有选择文件')
+        return jsonify({'error': '没有选择文件'}), 400
+    
     if file:
         try:
-            # 获取原始文件名并解码
             original_filename = urllib.parse.unquote(file.filename)
-            if isinstance(original_filename, bytes):
-                original_filename = original_filename.decode('utf-8')
+            logger.info('处理文件: %s', original_filename)
             
-            # 使用安全的文件名处理函数
             safe_filename = secure_chinese_filename(original_filename)
-            
-            # 移除扩展名
             original_name = os.path.splitext(safe_filename)[0]
-            
-            # 修改时间戳格式，使文件名更简洁
-            timestamp = (datetime.now() + timedelta(hours=8)).strftime('%m%d_%H%M')
+            timestamp = datetime.now().strftime('%m%d_%H%M')
             filename = f"{original_name}_{timestamp}.pdf"
             
             file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
             file.save(file_path)
+            logger.info('文件已保存: %s', file_path)
             
             processed_pdf = process_single_pdf(file_path, app.config['PROCESSED_FOLDER'])
-            processed_filename = os.path.basename(processed_pdf)
+            logger.info('文件处理完成: %s', processed_pdf)
             
-            return jsonify({'processed_file': processed_filename}), 200
+            return jsonify({'processed_file': processed_pdf}), 200
             
         except Exception as e:
-            print(f"处理文件时出错: {str(e)}")
-            return jsonify({'error': f'处理文件时出错: {str(e)}'}), 500
+            logger.error('处理文件时出错', exc_info=True)
+            return jsonify({'error': str(e)}), 500
 
 @app.route('/download/<filename>')
 def download_file(filename):
