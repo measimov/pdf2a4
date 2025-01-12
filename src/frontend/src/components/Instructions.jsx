@@ -26,7 +26,12 @@ function Instructions() {
             <FileUploadIcon color="primary" />
           </ListItemIcon>
           <ListItemText 
-            primary="选择文件" 
+            primary="选择文件"
+            primaryTypographyProps={{
+              fontWeight: 500,
+              color: '#1976d2',
+              fontSize: '1.1rem'
+            }}
             secondary={'点击"选择文件"按钮，选择需要处理的PDF文件'}
           />
         </ListItem>
@@ -35,7 +40,12 @@ function Instructions() {
             <CheckCircleIcon color="primary" />
           </ListItemIcon>
           <ListItemText 
-            primary="确认上传" 
+            primary="确认上传"
+            primaryTypographyProps={{
+              fontWeight: 500,
+              color: '#1976d2',
+              fontSize: '1.1rem'
+            }}
             secondary={'选择文件后，点击"上传"按钮开始处理'}
           />
         </ListItem>
@@ -44,7 +54,12 @@ function Instructions() {
             <TimerIcon color="primary" />
           </ListItemIcon>
           <ListItemText 
-            primary="等待处理" 
+            primary="等待处理"
+            primaryTypographyProps={{
+              fontWeight: 500,
+              color: '#1976d2',
+              fontSize: '1.1rem'
+            }}
             secondary="系统会自动处理您的文件，请耐心等待"
           />
         </ListItem>
@@ -53,7 +68,12 @@ function Instructions() {
             <DownloadIcon color="primary" />
           </ListItemIcon>
           <ListItemText 
-            primary="下载文件" 
+            primary="下载文件"
+            primaryTypographyProps={{
+              fontWeight: 500,
+              color: '#1976d2',
+              fontSize: '1.1rem'
+            }}
             secondary={'处理完成后，点击"下载"按钮获取处理后的文件'}
           />
         </ListItem>
