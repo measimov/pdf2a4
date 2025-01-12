@@ -43,3 +43,9 @@ processed/
 work_*/
 static/
 !src/backend/static/
+src/backend/logs/
+
+# Logs
+logs/
+*.log
+*.log.*

@@ -82,7 +82,14 @@ function FileList({ processedFile }) {
                   transition: 'background-color 0.3s'
                 }}
               >
-                <TableCell>{decodeURIComponent(file.name)}</TableCell>
+                <TableCell sx={{ 
+                  maxWidth: 300,
+                  overflow: 'hidden',
+                  textOverflow: 'ellipsis',
+                  whiteSpace: 'nowrap'
+                }}>
+                  {decodeURIComponent(file.name)}
+                </TableCell>
                 <TableCell>{file.size}</TableCell>
                 <TableCell>{file.time}</TableCell>
                 <TableCell>

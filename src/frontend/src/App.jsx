@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Container, Typography, Box, Grid, Paper } from '@mui/material';
+import { Typography, Box, Paper } from '@mui/material';
 import FileUpload from './components/FileUpload';
 import FileList from './components/FileList';
 import Instructions from './components/Instructions';
@@ -12,12 +12,19 @@ function App() {
   };
 
   return (
-    <Container maxWidth="xl">
+    <Box sx={{ 
+      display: 'flex',
+      minHeight: '100vh',
+      minWidth: '100vw',
+      margin: 0,
+      padding: 0,
+    }}>
+      {/* 左侧主要内容区域 */}
       <Box sx={{ 
-        py: 4,
-        minHeight: '100vh',
+        flex: '0 0 66.67%',
         display: 'flex',
-        flexDirection: 'column'
+        flexDirection: 'column',
+        bgcolor: '#f5f5f5',
       }}>
         <Typography 
           variant="h3" 
@@ -25,7 +32,7 @@ function App() {
           gutterBottom 
           align="center"
           sx={{ 
-            mb: 4,
+            py: 3,
             fontWeight: 'bold',
             background: 'linear-gradient(45deg, #2196F3 30%, #21CBF3 90%)',
             backgroundClip: 'text',
@@ -36,73 +43,69 @@ function App() {
         >
           PDF试卷分割工具
         </Typography>
-        
-        <Grid container spacing={3} sx={{ flex: 1 }}>
-          {/* 左侧主要操作区域 */}
-          <Grid item xs={12} md={8}>
-            <Paper 
-              elevation={3} 
-              sx={{ 
-                p: 3, 
-                mb: 3,
-                minHeight: '200px',
-                background: 'linear-gradient(to bottom, #ffffff, #f8f9fa)',
-                borderRadius: 2,
-                display: 'flex',
-                flexDirection: 'column',
-                justifyContent: 'center'
-              }}
-            >
-              <FileUpload onUploadSuccess={handleUploadSuccess} />
-            </Paper>
-            
-            <Paper 
-              elevation={3} 
-              sx={{ 
-                p: 3,
-                minHeight: '400px',
-                background: 'linear-gradient(to bottom, #ffffff, #f8f9fa)',
-                borderRadius: 2,
-                display: 'flex',
-                flexDirection: 'column'
-              }}
-            >
-              <Typography 
-                variant="h5" 
-                gutterBottom 
-                sx={{ 
-                  mb: 3,
-                  fontWeight: 500,
-                  color: '#1976d2'
-                }}
-              >
-                处理文件列表
-              </Typography>
-              <Box sx={{ flex: 1 }}>
-                <FileList processedFile={processedFile} />
-              </Box>
-            </Paper>
-          </Grid>
 
-          {/* 右侧使用说明 */}
-          <Grid item xs={12} md={4}>
-            <Paper 
-              elevation={3} 
+        <Box sx={{ 
+          flex: 1, 
+          display: 'flex', 
+          flexDirection: 'column',
+          gap: 2,
+          p: 3,
+        }}>
+          <Paper 
+            elevation={3} 
+            sx={{ 
+              p: 3,
+              background: 'linear-gradient(to bottom, #ffffff, #f8f9fa)',
+              borderRadius: 2,
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'center'
+            }}
+          >
+            <FileUpload onUploadSuccess={handleUploadSuccess} />
+          </Paper>
+          
+          <Paper 
+            elevation={3} 
+            sx={{ 
+              p: 3,
+              flex: 1,
+              background: 'linear-gradient(to bottom, #ffffff 0%, #f5f7fa 100%)',
+              borderRadius: 2,
+              display: 'flex',
+              flexDirection: 'column'
+            }}
+          >
+            <Typography 
+              variant="h5" 
+              gutterBottom 
               sx={{ 
-                p: 3,
-                position: { md: 'sticky' },
-                top: { md: 24 },
-                background: 'linear-gradient(to bottom, #ffffff, #f8f9fa)',
-                borderRadius: 2,
-                minHeight: '633px' // 与左侧两个Paper的总高度相匹配
+                mb: 3,
+                fontWeight: 500,
+                color: '#1976d2'
               }}
             >
-              <Instructions />
-            </Paper>
-          </Grid>
-        </Grid>
+              处理文件列表
+            </Typography>
+            <Box sx={{ flex: 1 }}>
+              <FileList processedFile={processedFile} />
+            </Box>
+          </Paper>
+        </Box>
       </Box>
-    </Container>
+
+      {/* 右侧使用说明 */}
+      <Box sx={{ 
+        flex: '0 0 30%',
+        bgcolor: '#fff',
+        borderLeft: '1px solid #e0e0e0',
+        height: '100vh',
+        overflowY: 'auto',
+        p: 3,
+      }}>
+        <Instructions />
+      </Box>
+    </Box>
   );
 }
 
