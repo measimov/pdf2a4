@@ -99,7 +99,7 @@ function App() {
         flex: '0 0 30%',
         bgcolor: '#fff',
         borderLeft: '1px solid #e0e0e0',
-        height: '100vh',
+        minHeight: '100vh',
         overflowY: 'auto',
         p: 3,
       }}>
