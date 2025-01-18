@@ -32,17 +32,26 @@ def process_single_pdf(pdf_path, processed_folder):
         image_ocr.delete_watermark_images_and_correct_orientation(raw_images_dir)
         
         # 3. 分割图片
+        from concurrent.futures import ThreadPoolExecutor
+
+        # 3. 分割图片 - 多线程处理
         image_files = [f for f in os.listdir(raw_images_dir) if f.endswith(('.png', '.jpg', '.jpeg'))]
-        for image_file in image_files:
+        def process_split(image_file):
             input_path = raw_images_dir / image_file
             output_prefix = split_images_dir / Path(image_file).stem
             cut_image.detect_columns(str(input_path), str(output_prefix))
         
-        # 4. 检查分割后的图片
+        with ThreadPoolExecutor() as executor:
+            executor.map(process_split, image_files)
+        
+        # 4. 检查分割后的图片 - 多线程处理
         image_files = [f for f in os.listdir(split_images_dir) if f.endswith(('.png', '.jpg', '.jpeg'))]
-        for image_file in image_files:
+        def process_check(image_file):
             input_path = split_images_dir / image_file
             image_ocr.check_text_content(input_path)
+            
+        with ThreadPoolExecutor() as executor:
+            executor.map(process_check, image_files)
             
         output_pdf = Path(processed_folder) / f"{original_name}_处理完成.pdf"
         image_files = sorted([f for f in os.listdir(split_images_dir) if f.endswith(('.png', '.jpg', '.jpeg'))])
