@@ -1,6 +1,21 @@
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 from PIL import Image
+import re
+
+def sort_key(path):
+    # 使用正则表达式提取页码、img编号和column编号
+    page_match = re.search(r'page(\d+)', path)
+    img_match = re.search(r'img(\d+)', path)
+    column_match = re.search(r'column_(\d+)', path)
+
+    # 提取并转换为整数，若未找到则使用0
+    page_number = int(page_match.group(1)) if page_match else 0
+    img_number = int(img_match.group(1)) if img_match else 0
+    column_number = int(column_match.group(1)) if column_match else 0
+
+    # 返回一个元组，按元组顺序进行排序
+    return (page_number, img_number, column_number)
 
 def images_to_pdf(image_paths, output_pdf):
     # A4 页面宽高（点）
@@ -11,7 +26,8 @@ def images_to_pdf(image_paths, output_pdf):
 
     # 预处理所有图片的尺寸信息
     images_info = []
-    for image_path in image_paths:
+    sorted_image_paths = sorted(image_paths, key=sort_key)
+    for image_path in sorted_image_paths:
         img = Image.open(image_path)
         img_width, img_height = img.size
         scale = min(page_width / img_width, page_height / img_height)
