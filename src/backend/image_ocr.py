@@ -40,8 +40,8 @@ def delete_watermark_images_and_correct_orientation(image_dir):
             
             image = Image.open(image_path)
             
-            # 对于900KB以上的图片直接执行旋转校正
-            if file_size > 900:
+            # 对于400KB以上的图片直接执行旋转校正
+            if file_size > 400:
                 correct_image_orientation(image, image_path)
                 return
                 

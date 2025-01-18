@@ -91,7 +91,7 @@ function FileList({ processedFile }) {
                   {decodeURIComponent(file.name)}
                 </TableCell>
                 <TableCell>{file.size}</TableCell>
-                <TableCell>{file.time}</TableCell>
+                <TableCell>{new Date(file.time).toLocaleString()}</TableCell>
                 <TableCell>
                   <Button 
                     href={`/download/${encodeURIComponent(file.name)}`}
